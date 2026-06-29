@@ -1,0 +1,92 @@
+{
+  "basics": {
+    "name": "Yuzhang Zhong",
+    "email": "",
+    "phone": "",
+    "website": "https://your-github-username.github.io",
+    "summary": "Computer Science undergraduate at the University of Macau interested in LLMs, HCI, and human-centered AI systems.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Macau / Urbana-Champaign",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "yuzhang-zhong",
+        "url": "https://www.linkedin.com/in/yuzhang-zhong/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "TODO: Institution / Lab",
+      "position": "Visiting Predoctoral Researcher / Research Assistant",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "TODO: confirm official title, institution, advisor, and dates.",
+      "highlights": [
+        "Research areas: large language models, HCI, and human-centered AI.",
+        "TODO: add concrete contributions."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Macau",
+      "area": "Computer Science",
+      "studyType": "B.S.",
+      "startDate": "",
+      "endDate": "2027",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University of Illinois Urbana-Champaign",
+      "area": "Exchange Student",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Research Interests",
+      "keywords": [
+        "Large language models",
+        "Human-computer interaction",
+        "Human-centered AI",
+        "Creative and cultural computing",
+        "Multimodal AI"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "publications": [
+    {
+      "name": "SNS-Grasp: Semantic-guided Noise Scaling for Grasp Generation",
+      "publisher": "Proceedings of the AAAI Conference on Artificial Intelligence, 40(11)",
+      "releaseDate": "2026-03-14",
+      "website": "https://doi.org/10.1609/aaai.v40i11.37909",
+      "summary": "AAAI 2026 paper on semantic-guided noise scaling for grasp generation, pp. 9484-9492."
+    }
+  ],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": [
+    {
+      "name": "Dream of Red Chamber: Emotional Landscape",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "Interactive cultural computing project on narrative, emotion, and visualization. TODO: add role, collaborators, demo link, and screenshots."
+    }
+  ]
+}

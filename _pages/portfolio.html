@@ -1,0 +1,41 @@
+---
+layout: archive
+title: "Projects"
+permalink: /portfolio/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>My projects explore the bidirectional relationship between humans and AI:
+how AI can enhance human subjective initiative, and how LLMs/agents can better
+understand human intentions, contexts, and ways of thinking.</p>
+
+<h2>Human Subjective Initiative</h2>
+
+<p>These projects investigate how AI systems can support reflection,
+imagination, learning, and creative agency.</p>
+
+{% assign initiative_projects = site.portfolio | where: "theme", "initiative" %}
+{% for post in initiative_projects %}
+  {% include project-plain-item.html %}
+{% endfor %}
+
+<h2>Human-like Understanding</h2>
+
+<p>These projects investigate how models and agents can better interpret
+human intent, context, language, and decision-making signals.</p>
+
+{% assign understanding_projects = site.portfolio | where: "theme", "understanding" %}
+{% for post in understanding_projects %}
+  {% include project-plain-item.html %}
+{% endfor %}
+
+{% assign other_projects = site.portfolio | where_exp: "post", "post.theme == nil" %}
+{% if other_projects.size > 0 %}
+<h2>Other Projects</h2>
+{% for post in other_projects %}
+  {% include project-plain-item.html %}
+{% endfor %}
+{% endif %}
+
