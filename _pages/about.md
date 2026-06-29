@@ -11,7 +11,7 @@ redirect_from:
 
 <section class="homepage-welcome" markdown="1">
 <p class="welcome-kicker">🎆 Welcome to my homepage.</p>
-<p class="welcome-lead">I am a visiting predoctoral fellow at <a href="https://www.northwestern.edu/">Northwestern University</a>, where I am advised by <strong>Prof.&nbsp;Stephen&nbsp;Xia</strong>. I study Computer Science at the <a href="https://www.um.edu.mo/">University of Macau</a> (Honours College), expect to graduate in 2027, and spent Spring 2026 as an exchange student at the University of Illinois Urbana-Champaign.</p>
+<p class="welcome-lead">I am a visiting predoctoral fellow at <a href="https://www.northwestern.edu/">Northwestern University</a>, where I am advised by <strong>Prof.&nbsp;Stephen&nbsp;Xia</strong>. I study Computer Science at the <a href="https://www.um.edu.mo/">University of Macau</a> (Honours College), expect to graduate in 2027, and spent Spring 2026 as an exchange student at the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a>.</p>
 </section>
 
 My research interests lie in LLMs, HCI, and human-centered AI. Specifically, I
@@ -43,8 +43,8 @@ Selected projects I have worked on or am currently developing:
 ## News
 
 - 🚀 August 2026: I will join <strong><a href="https://www.popmart.com/">POP MART</a></strong> as an <strong>AI Empowerment Intern</strong>, CEO's Office.
-- 🎓 May 2026: I completed my spring exchange at <strong>UIUC</strong>. I am grateful to <strong>Prof.&nbsp;Hyanghee&nbsp;Park</strong> and <strong>Prof.&nbsp;Tal&nbsp;August</strong>; their HCI courses helped me discover how captivating HCI research can be.
-- 📄 March 2026: Our paper <strong>SNS-Grasp</strong> was accepted to <strong>AAAI 2026</strong>.
+- 🎓 May 2026: I completed my spring exchange at <strong><a href="https://illinois.edu/">UIUC</a></strong>. I am grateful to <strong>Prof.&nbsp;Hyanghee&nbsp;Park</strong> and <strong>Prof.&nbsp;Tal&nbsp;August</strong>; their HCI courses helped me discover how captivating HCI research can be.
+- 📄 March 2026: Our paper <strong><a href="{{ base_path }}/publication/2026-sns-grasp">SNS-Grasp</a></strong> was accepted to <strong><a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a></strong>.
 - 🏆 July 2025: <strong>Dream Factory</strong> won the <strong>Regional 2nd Place Award</strong> at <a href="https://www.vivo.com/">Vivo</a>'s AI Innovation Competition.
 
 ## Beyond Research
