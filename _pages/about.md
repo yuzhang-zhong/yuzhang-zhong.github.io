@@ -34,7 +34,7 @@ Selected projects I have worked on or am currently developing:
 
 ### How LLMs/agents can better think and perform in human-like ways
 
-- <span class="project-name">SNS-Grasp</span> - An intent-driven grasp generation framework that uses semantic information to guide robotic grasping.
+- <span class="project-name">SNS-Grasp</span> - A semantic-guided grasp generation framework that injects object-level intent into the denoising process, helping robots generate grasps that better match how humans intend to use objects.
 - <span class="project-name">RecGlass</span> - A reconfigurable smart-glasses platform that empowers users to actively configure wearable sensors for context-aware AI interaction, supporting more personalized robot control, physiological awareness, and embodied self-agency.
 - <span class="project-name">VagueLlama@SP500</span> - A project exploring how vague language in financial reports reflects management confidence and relates to stock-price trends.
 
