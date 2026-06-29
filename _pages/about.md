@@ -9,7 +9,15 @@ redirect_from:
   - /about.html
 ---
 
-<section class="homepage-welcome" markdown="1">
+<nav class="home-right-nav" aria-label="Homepage sections">
+  <a href="#about">About</a>
+  <a href="#projects">Projects</a>
+  <a href="#news">News</a>
+  <a href="#beyond-research">Beyond</a>
+  <a href="#other-ideas">Ideas</a>
+</nav>
+
+<section id="about" class="homepage-welcome" markdown="1">
 <p class="welcome-kicker">🎆 Welcome to my homepage.</p>
 <p class="welcome-lead">I am a visiting predoctoral fellow at <a href="https://www.northwestern.edu/">Northwestern University</a>, where I am advised by <strong>Prof.&nbsp;Stephen&nbsp;Xia</strong>. I study Computer Science at the <a href="https://www.um.edu.mo/">University of Macau</a> (Honours College), expect to graduate in 2027, and spent Spring 2026 as an exchange student at the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a>.</p>
 </section>
@@ -22,20 +30,9 @@ focus on the bidirectional relationship between humans and AI:
 
 <p class="imagination-note">💬 I am fascinated by AI as a medium for imagination: not only as a tool for automation, but also as a space that can naturally inspire people to think beyond habitual frames.</p>
 
-<section class="home-news-column" markdown="1">
-
-## News
-
-- 🚀 August 2026: I will join <strong class="nowrap"><a href="https://www.popmart.com/">POP MART</a></strong> as an <strong class="nowrap">AI Empowerment Intern</strong>, CEO's Office.
-- 🎓 May 2026: I completed my spring exchange at <strong class="nowrap"><a href="https://illinois.edu/">UIUC</a></strong>. I am grateful to <strong class="nowrap">Prof.&nbsp;Hyanghee&nbsp;Park</strong> and <strong class="nowrap">Prof.&nbsp;Tal&nbsp;August</strong>; their HCI courses helped me discover how captivating HCI research can be.
-- 📄 March 2026: Our paper <strong class="nowrap"><a href="{{ base_path }}/publication/2026-sns-grasp">SNS-Grasp</a></strong> was accepted to <strong class="nowrap"><a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a></strong>.
-- 🏆 July 2025: <strong class="nowrap">Dream Factory</strong> won the <strong>Regional 2nd Place Award</strong> at <a href="https://www.vivo.com/">Vivo</a>'s AI Innovation Competition.
-
-</section>
-
 Selected projects I have worked on or am currently developing:
 
-<section class="project-directions" markdown="1">
+<section id="projects" class="project-directions" markdown="1">
 
 ### How AI can improve humans' subjective initiative
 
@@ -48,6 +45,17 @@ Selected projects I have worked on or am currently developing:
 - <span class="project-name">SNS-Grasp</span> - A semantic-guided grasp generation framework that injects object-level intent into the denoising process, helping robots generate grasps that better match how humans intend to use objects.
 - <span class="project-name">RecGlass</span> - A reconfigurable smart-glasses platform that empowers users to actively configure wearable sensors for context-aware AI interaction, supporting more personalized robot control, physiological awareness, and embodied self-agency.
 - <span class="project-name">VagueLlama@SP500</span> - A project exploring how vague language in financial reports reflects management confidence and relates to stock-price trends.
+
+</section>
+
+<section id="news" class="home-news-column" markdown="1">
+
+## News
+
+- 🚀 August 2026: I will join <strong class="nowrap"><a href="https://www.popmart.com/">POP MART</a></strong> as an <strong class="nowrap">AI Empowerment Intern</strong>, CEO's Office.
+- 🎓 May 2026: I completed my spring exchange at <strong class="nowrap"><a href="https://illinois.edu/">UIUC</a></strong>. I am grateful to <strong class="nowrap">Prof.&nbsp;Hyanghee&nbsp;Park</strong> and <strong class="nowrap">Prof.&nbsp;Tal&nbsp;August</strong>; their HCI courses helped me discover how captivating HCI research can be.
+- 📄 March 2026: Our paper <strong class="nowrap"><a href="{{ base_path }}/publication/2026-sns-grasp">SNS-Grasp</a></strong> was accepted to <strong class="nowrap"><a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a></strong>.
+- 🏆 July 2025: <strong class="nowrap">Dream Factory</strong> won the <strong>Regional 2nd Place Award</strong> at <a href="https://www.vivo.com/">Vivo</a>'s AI Innovation Competition.
 
 </section>
 
