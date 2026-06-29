@@ -29,12 +29,12 @@ Selected projects I have worked on or am currently developing:
 ### How AI can improve humans' subjective initiative
 
 - <span class="project-name">RewindAI</span> - An AI system that helps users build a personal digital twin and simulate unchosen outcomes of past decisions, supporting deeper self-reflection.
-- <span class="project-name">AI-Generated New Entities in Collaborative Writing</span> - A study on how AI-introduced new entities influence the creative process in human-AI collaborative writing.
+- <span class="project-name">AI-Generated Entities in Collaborative Writing</span> - A study on how AI-introduced entities influence the creative process in human-AI collaborative writing.
 - <span class="project-name">Dream Factory</span> - An interactive learning system where users role-play characters from textbook materials with LLM agents to better understand the characters, stories, and historical contexts.
 
 ### How LLMs/agents can better think and perform in human-like ways
 
-- <span class="project-name">SNS-Grasp: Semantic-guided Noise Scaling for Grasp Generation</span> - An intent-driven grasp generation framework that uses semantic information to guide robotic grasping.
+- <span class="project-name">SNS-Grasp</span> - An intent-driven grasp generation framework that uses semantic information to guide robotic grasping.
 - <span class="project-name">RecGlass</span> - A reconfigurable smart-glasses platform that empowers users to actively configure wearable sensors for context-aware AI interaction, supporting more personalized robot control, physiological awareness, and embodied self-agency.
 - <span class="project-name">VagueLlama@SP500</span> - A project exploring how vague language in financial reports reflects management confidence and relates to stock-price trends.
 
@@ -42,10 +42,10 @@ Selected projects I have worked on or am currently developing:
 
 ## News
 
-- 🚀 August 2026: I will join <strong>POP MART</strong> as an <strong>AI Empowerment Intern in the CEO's Office</strong>.
-- 🎓 May 2026: I finished my exchange semester at the <strong>University of Illinois Urbana-Champaign</strong>. I am grateful to <strong>Prof. Hyanghee Park</strong> and <strong>Prof. Tal August</strong>, whose HCI courses helped me discover how captivating HCI research can be. Reading HCI papers often feels deeply engaging to me, and I hope to continue contributing to the HCI community in my future work.
-- 📄 March 2026: Our paper <strong>SNS-Grasp: Semantic-guided Noise Scaling for Grasp Generation</strong> was accepted to <strong>AAAI 2026</strong>.
-- 🏆 July 2025: Our <strong>Dream Factory</strong> project won the <strong>Regional 2nd Place Award</strong> in the <strong>AI Innovation Competition hosted by Vivo</strong>.
+- 🚀 August 2026: I will join <strong>POP MART</strong> as an <strong>AI Empowerment Intern</strong>, CEO's Office.
+- 🎓 May 2026: I completed my spring exchange at <strong>UIUC</strong>. I am grateful to <strong>Prof.&nbsp;Hyanghee&nbsp;Park</strong> and <strong>Prof.&nbsp;Tal&nbsp;August</strong>; their HCI courses helped me discover how captivating HCI research can be.
+- 📄 March 2026: Our paper <strong>SNS-Grasp</strong> was accepted to <strong>AAAI 2026</strong>.
+- 🏆 July 2025: <strong>Dream Factory</strong> won the <strong>Regional 2nd Place Award</strong> at Vivo's AI Innovation Competition.
 
 ## Beyond Research
 
