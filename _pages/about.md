@@ -1,8 +1,8 @@
 ---
 permalink: /
 title: 'Yuzhang Zhong <span class="name-chinese">钟宇璋</span> <span class="name-pronunciation">/juːˈʒɑːŋ dʒʊŋ/</span>'
-browser_title: "Yuzhang Zhong | LLM&HCI"
-description: "Yuzhang Zhong is a visiting predoctoral fellow at Northwestern University and an undergraduate student in Computer Science at the University of Macau. His research focuses on LLMs, HCI, human-centered AI, AI agents, and interactive AI systems."
+browser_title: "Yuzhang Zhong's Homepage | HCI & LLM Agents"
+description: "Yuzhang Zhong is a visiting predoctoral fellow at Northwestern University and a Computer Science undergraduate at the University of Macau. His research explores HCI, LLM agents, and human-centered AI, focusing on how AI can help people better understand themselves and how intelligent agents can better understand human intentions, contexts, and ways of thinking."
 author_profile: true
 redirect_from:
   - /about/
@@ -11,7 +11,7 @@ redirect_from:
 
 <section class="homepage-welcome" markdown="1">
 <p class="welcome-kicker">🎆 Welcome to my homepage.</p>
-<p class="welcome-lead">I am a visiting predoctoral fellow at Northwestern University, where I am advised by <strong>Prof.&nbsp;Stephen&nbsp;Xia</strong>. I study Computer Science at the University of Macau (Honours College), expect to graduate in 2027, and spent Spring 2026 as an exchange student at the University of Illinois Urbana-Champaign.</p>
+<p class="welcome-lead">I am a visiting predoctoral fellow at <a href="https://www.northwestern.edu/">Northwestern University</a>, where I am advised by <strong>Prof.&nbsp;Stephen&nbsp;Xia</strong>. I study Computer Science at the <a href="https://www.um.edu.mo/">University of Macau</a> (Honours College), expect to graduate in 2027, and spent Spring 2026 as an exchange student at the University of Illinois Urbana-Champaign.</p>
 </section>
 
 My research interests lie in LLMs, HCI, and human-centered AI. Specifically, I
@@ -42,10 +42,10 @@ Selected projects I have worked on or am currently developing:
 
 ## News
 
-- 🚀 August 2026: I will join <strong>POP MART</strong> as an <strong>AI Empowerment Intern</strong>, CEO's Office.
+- 🚀 August 2026: I will join <strong><a href="https://www.popmart.com/">POP MART</a></strong> as an <strong>AI Empowerment Intern</strong>, CEO's Office.
 - 🎓 May 2026: I completed my spring exchange at <strong>UIUC</strong>. I am grateful to <strong>Prof.&nbsp;Hyanghee&nbsp;Park</strong> and <strong>Prof.&nbsp;Tal&nbsp;August</strong>; their HCI courses helped me discover how captivating HCI research can be.
 - 📄 March 2026: Our paper <strong>SNS-Grasp</strong> was accepted to <strong>AAAI 2026</strong>.
-- 🏆 July 2025: <strong>Dream Factory</strong> won the <strong>Regional 2nd Place Award</strong> at Vivo's AI Innovation Competition.
+- 🏆 July 2025: <strong>Dream Factory</strong> won the <strong>Regional 2nd Place Award</strong> at <a href="https://www.vivo.com/">Vivo</a>'s AI Innovation Competition.
 
 ## Beyond Research
 
