@@ -30,10 +30,10 @@ focus on the bidirectional relationship between humans and AI:
 
 ## News
 
-- 🚀 August 2026: I will join <strong><a href="https://www.popmart.com/">POP MART</a></strong> as an <strong>AI Empowerment Intern</strong>, CEO's Office.
-- 🎓 May 2026: I completed my spring exchange at <strong><a href="https://illinois.edu/">UIUC</a></strong>. I am grateful to <strong>Prof.&nbsp;Hyanghee&nbsp;Park</strong> and <strong>Prof.&nbsp;Tal&nbsp;August</strong>; their HCI courses helped me discover how captivating HCI research can be.
-- 📄 March 2026: Our paper <strong><a href="{{ base_path }}/publication/2026-sns-grasp">SNS-Grasp</a></strong> was accepted to <strong><a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a></strong>.
-- 🏆 July 2025: <strong>Dream Factory</strong> won the <strong>Regional 2nd Place Award</strong> at <a href="https://www.vivo.com/">Vivo</a>'s AI Innovation Competition.
+- 🚀 August 2026: I will join <strong class="nowrap"><a href="https://www.popmart.com/">POP MART</a></strong> as an <strong class="nowrap">AI Empowerment Intern</strong>, CEO's Office.
+- 🎓 May 2026: I completed my spring exchange at <strong class="nowrap"><a href="https://illinois.edu/">UIUC</a></strong>. I am grateful to <strong class="nowrap">Prof.&nbsp;Hyanghee&nbsp;Park</strong> and <strong class="nowrap">Prof.&nbsp;Tal&nbsp;August</strong>; their HCI courses helped me discover how captivating HCI research can be.
+- 📄 March 2026: Our paper <strong class="nowrap"><a href="{{ base_path }}/publication/2026-sns-grasp">SNS-Grasp</a></strong> was accepted to <strong class="nowrap"><a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a></strong>.
+- 🏆 July 2025: <strong class="nowrap">Dream Factory</strong> won the <strong>Regional 2nd Place Award</strong> at <a href="https://www.vivo.com/">Vivo</a>'s AI Innovation Competition.
 
 </aside>
 </section>
