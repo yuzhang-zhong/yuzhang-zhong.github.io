@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: 'Yuzhang Zhong <span class="name-chinese">钟宇璋</span> <span class="name-pronunciation">/juːˈʒɑːŋ dʒʊŋ/</span>'
-browser_title: "Yuzhang Zhong | LLMs, HCI, Human-Centered AI"
+browser_title: "Yuzhang Zhong | LLM&HCI"
 description: "Yuzhang Zhong is a visiting predoctoral fellow at Northwestern University and an undergraduate student in Computer Science at the University of Macau. His research focuses on LLMs, HCI, human-centered AI, AI agents, and interactive AI systems."
 author_profile: true
 redirect_from:
@@ -24,7 +24,8 @@ I am especially fascinated by AI as a medium for imagination: not only as a tool
 for automation, but also as a space that can naturally inspire people to think
 beyond habitual frames.
 
-Below are projects I am developing around these two directions.
+Below are selected projects I have worked on or am currently developing around
+these two directions.
 
 <section class="project-directions" markdown="1">
 
@@ -32,13 +33,13 @@ Below are projects I am developing around these two directions.
 
 - <span class="project-name">RewindAI</span> - An AI system that helps users build a personal digital twin and simulate unchosen outcomes of past decisions, supporting deeper self-reflection.
 - <span class="project-name">RecGlass</span> - A reconfigurable smart-glasses platform that empowers users to actively configure wearable sensors for context-aware AI interaction, supporting more personalized robot control, physiological awareness, and embodied self-agency.
-- <span class="project-name">Human-AI Collaborative Writing Dynamics Analysis on AI-generated New Entities</span> - A study on how AI-introduced new entities influence the creative process in human-AI collaborative writing.
-- <span class="project-name">Dream Factory: LLM-Agent-Powered Interactive Educational Script and Role-play System</span> - An interactive learning system where users role-play characters from textbook materials with LLM agents to better understand the characters, stories, and historical contexts.
+- <span class="project-name">AI-Generated New Entities in Collaborative Writing</span> - A study on how AI-introduced new entities influence the creative process in human-AI collaborative writing.
+- <span class="project-name">Dream Factory</span> - An interactive learning system where users role-play characters from textbook materials with LLM agents to better understand the characters, stories, and historical contexts.
 
 ### How LLMs/agents can better understand humans and think in human-like ways
 
 - <span class="project-name">SNS-Grasp: Semantic-guided Noise Scaling for Grasp Generation</span> - An intent-driven grasp generation framework that uses semantic information to guide robotic grasping.
-- <span class="project-name">VagueLlama@SP500: Predicting Company Stock Prices Using Vague Linguistic Features in Financial Reports</span> - A project exploring how vague language in financial reports reflects management confidence and relates to stock-price trends.
+- <span class="project-name">VagueLlama@SP500</span> - A project exploring how vague language in financial reports reflects management confidence and relates to stock-price trends.
 
 </section>
 

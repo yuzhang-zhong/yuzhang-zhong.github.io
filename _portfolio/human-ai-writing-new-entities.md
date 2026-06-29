@@ -1,5 +1,5 @@
 ---
-title: "Human-AI Collaborative Writing Dynamics Analysis on AI-generated New Entities"
+title: "AI-Generated New Entities in Collaborative Writing"
 excerpt: "A study on how AI-introduced new entities influence the creative process in human-AI collaborative writing."
 collection: portfolio
 permalink: /portfolio/human-ai-writing-new-entities

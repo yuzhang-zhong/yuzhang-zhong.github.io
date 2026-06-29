@@ -1,5 +1,5 @@
 ---
-title: "Dream Factory: LLM-Agent-Powered Interactive Educational Script and Role-play System"
+title: "Dream Factory"
 excerpt: "An interactive learning system where users role-play characters from textbook materials with LLM agents to better understand characters, stories, and historical contexts."
 collection: portfolio
 permalink: /portfolio/dream-factory

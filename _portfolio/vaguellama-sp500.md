@@ -1,5 +1,5 @@
 ---
-title: "VagueLlama@SP500: Predicting Company Stock Prices Using Vague Linguistic Features in Financial Reports"
+title: "VagueLlama@SP500"
 excerpt: "A project exploring how vague language in financial reports reflects management confidence and relates to stock-price trends."
 collection: portfolio
 permalink: /portfolio/vaguellama-sp500
