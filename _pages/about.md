@@ -14,9 +14,6 @@ redirect_from:
 <p class="welcome-lead">I am a visiting predoctoral fellow at <a href="https://www.northwestern.edu/">Northwestern University</a>, where I am advised by <strong>Prof.&nbsp;Stephen&nbsp;Xia</strong>. I study Computer Science at the <a href="https://www.um.edu.mo/">University of Macau</a> (Honours College), expect to graduate in 2027, and spent Spring 2026 as an exchange student at the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a>.</p>
 </section>
 
-<section class="home-two-column" markdown="1">
-<div class="home-main-column" markdown="1">
-
 My research interests lie in LLMs, HCI, and human-centered AI. Specifically, I
 focus on the bidirectional relationship between humans and AI:
 
@@ -25,8 +22,7 @@ focus on the bidirectional relationship between humans and AI:
 
 <p class="imagination-note">💬 I am fascinated by AI as a medium for imagination: not only as a tool for automation, but also as a space that can naturally inspire people to think beyond habitual frames.</p>
 
-</div>
-<aside class="home-news-column" markdown="1">
+<section class="home-news-column" markdown="1">
 
 ## News
 
@@ -35,7 +31,6 @@ focus on the bidirectional relationship between humans and AI:
 - 📄 March 2026: Our paper <strong class="nowrap"><a href="{{ base_path }}/publication/2026-sns-grasp">SNS-Grasp</a></strong> was accepted to <strong class="nowrap"><a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a></strong>.
 - 🏆 July 2025: <strong class="nowrap">Dream Factory</strong> won the <strong>Regional 2nd Place Award</strong> at <a href="https://www.vivo.com/">Vivo</a>'s AI Innovation Competition.
 
-</aside>
 </section>
 
 Selected projects I have worked on or am currently developing:
