@@ -20,12 +20,9 @@ focus on the bidirectional relationship between humans and AI:
 - <span class="project-name">How AI can enhance human subjective initiative</span> - I study how AI systems can help people explore and understand more about themselves, imagine more freely, and expand their ways of thinking.
 - <span class="project-name">How LLMs and agents can better understand humans</span> - I explore how intelligent agents can better understand human intentions, contexts, and ways of thinking.
 
-I am especially fascinated by AI as a medium for imagination: not only as a tool
-for automation, but also as a space that can naturally inspire people to think
-beyond habitual frames.
+<p class="imagination-note">✦ <span>AI as a medium for imagination</span> - I am fascinated by AI not only as a tool for automation, but also as a space that can naturally inspire people to think beyond habitual frames.</p>
 
-Below are selected projects I have worked on or am currently developing around
-these two directions.
+Selected projects I have worked on or am currently developing:
 
 <section class="project-directions" markdown="1">
 

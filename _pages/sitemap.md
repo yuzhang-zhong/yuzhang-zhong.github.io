@@ -12,5 +12,4 @@ A compact overview of the main pages on this site. An [XML sitemap]({{ base_path
 - [Home]({{ base_path }}/)
 - [Publications]({{ base_path }}/publications/)
 - [Projects]({{ base_path }}/portfolio/)
-- [CV]({{ base_path }}/cv/)
 - [Sitemap]({{ base_path }}/sitemap/)
