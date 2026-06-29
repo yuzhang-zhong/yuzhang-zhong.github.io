@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 'Yuzhang Zhong <span class="name-pronunciation">/juːˈʒɑːŋ dʒʊŋ/</span>'
+title: 'Yuzhang Zhong <span class="name-chinese">钟宇璋</span> <span class="name-pronunciation">/juːˈʒɑːŋ dʒʊŋ/</span>'
 browser_title: "Yuzhang's Homepage ;)"
 author_profile: true
 redirect_from:
@@ -16,7 +16,7 @@ redirect_from:
 My research interests lie in LLMs, HCI, and human-centered AI. Specifically, I
 focus on the bidirectional relationship between humans and AI:
 
-- <span class="project-name">How AI can enhance human subjective initiative</span> - I study how AI systems can help people reflect on themselves, imagine alternatives, and open up new ways of thinking.
+- <span class="project-name">How AI can enhance human subjective initiative</span> - I study how AI systems can help people reflect on themselves, imagine more freely, and open up new ways of thinking.
 - <span class="project-name">How LLMs and agents can better understand humans</span> - I explore how intelligent agents can better understand human intentions, contexts, and ways of thinking.
 
 I am especially fascinated by the imaginative possibilities brought by AI: how
@@ -30,6 +30,7 @@ Below are projects I am developing around these two directions.
 ### How AI can improve humans' subjective initiative
 
 - <span class="project-name">RewindAI</span> - An AI system that helps users build a personal digital twin and simulate unchosen outcomes of past decisions, supporting deeper self-reflection.
+- <span class="project-name">RecGlass</span> - A reconfigurable smart-glasses platform that empowers users to actively configure wearable sensors for context-aware AI interaction, supporting more personalized robot control, physiological awareness, and embodied self-agency.
 - <span class="project-name">Human-AI Collaborative Writing Dynamics Analysis on AI-generated New Entities</span> - A study on how AI-introduced new entities influence the creative process in human-AI collaborative writing.
 - <span class="project-name">Dream Factory: LLM-Agent-Powered Interactive Educational Script and Role-play System</span> - An interactive learning system where users role-play characters from textbook materials with LLM agents to better understand the characters, stories, and historical contexts.
 
