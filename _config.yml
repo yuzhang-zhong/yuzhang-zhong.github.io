@@ -12,7 +12,7 @@ site_theme               : "air" # The available themes options are "default", "
 title                    : "Yuzhang Zhong"
 title_separator          : "-"
 name                     : &name "Yuzhang Zhong"
-description              : &description "Personal academic website for Yuzhang Zhong, a visiting predoctoral fellow at Northwestern University interested in LLMs, HCI, and human-centered AI systems."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Yuzhang Zhong is a visiting predoctoral fellow at Northwestern University and an undergraduate student in Computer Science at the University of Macau. His research focuses on LLMs, HCI, human-centered AI, AI agents, and interactive AI systems."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://yuzhang-zhong.github.io"
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -286,6 +286,8 @@ defaults:
       author_profile: true
       share: true
       comment: true
+      sitemap: false
+      robots: noindex
   # _talks
   - scope:
       path: ""

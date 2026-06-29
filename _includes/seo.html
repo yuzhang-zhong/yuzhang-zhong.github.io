@@ -7,12 +7,12 @@
 {% assign seo_url = seo_url | default: site.github.url %}
 
 {% if page.browser_title %}
-  {% assign seo_title = page.browser_title %}
+  {% assign seo_title = page.browser_title | strip_html | strip_newlines | escape_once %}
 {% elsif page.title %}
   {% assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title %}
 {% endif %}
 
-{% if seo_title %}
+{% if seo_title and page.browser_title == nil %}
   {% assign seo_title = seo_title | markdownify | strip_html | strip_newlines | escape_once %}
 {% endif %}
 
@@ -27,6 +27,9 @@
   {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once %}
 {% endif %}
 <meta name="description" content="{{ seo_description }}">
+{% if page.robots %}
+  <meta name="robots" content="{{ page.robots }}">
+{% endif %}
 
 {% assign seo_author = page.author | default: page.author[0] | default: site.author[0] %}
 {% if seo_author %}
@@ -91,11 +94,34 @@
 {% if site.social %}
   <script type="application/ld+json">
     {
-      "@context" : "http://schema.org",
-      "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
-      "name" : "{{ site.social.name | default: site.name }}",
-      "url" : {{ seo_url | jsonify }},
-      "sameAs" : {{ site.social.links | jsonify }}
+      "@context": "https://schema.org",
+      "@type": "ProfilePage",
+      "mainEntity": {
+        "@type": "Person",
+        "name": "Yuzhang Zhong",
+        "alternateName": "钟宇璋",
+        "url": "https://yuzhang-zhong.github.io/",
+        "affiliation": [
+          {
+            "@type": "CollegeOrUniversity",
+            "name": "Northwestern University"
+          },
+          {
+            "@type": "CollegeOrUniversity",
+            "name": "University of Macau"
+          }
+        ],
+        "jobTitle": "Visiting Predoctoral Fellow",
+        "knowsAbout": [
+          "Large Language Models",
+          "Human-Computer Interaction",
+          "Human-Centered AI",
+          "LLM Agents",
+          "Interactive AI Systems",
+          "SNS-Grasp"
+        ],
+        "sameAs": {{ site.social.links | jsonify }}
+      }
     }
   </script>
 {% endif %}

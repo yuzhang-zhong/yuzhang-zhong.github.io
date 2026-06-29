@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: 'Yuzhang Zhong <span class="name-chinese">钟宇璋</span> <span class="name-pronunciation">/juːˈʒɑːŋ dʒʊŋ/</span>'
-browser_title: "Yuzhang Zhong ;)"
+browser_title: "Yuzhang Zhong | LLMs, HCI, Human-Centered AI"
+description: "Yuzhang Zhong is a visiting predoctoral fellow at Northwestern University and an undergraduate student in Computer Science at the University of Macau. His research focuses on LLMs, HCI, human-centered AI, AI agents, and interactive AI systems."
 author_profile: true
 redirect_from:
   - /about/
@@ -16,12 +17,12 @@ redirect_from:
 My research interests lie in LLMs, HCI, and human-centered AI. Specifically, I
 focus on the bidirectional relationship between humans and AI:
 
-- <span class="project-name">How AI can enhance human subjective initiative</span> - I study how AI systems can help people reflect on themselves, imagine more freely, and open up new ways of thinking.
+- <span class="project-name">How AI can enhance human subjective initiative</span> - I study how AI systems can help people explore and understand more about themselves, imagine more freely, and expand their ways of thinking.
 - <span class="project-name">How LLMs and agents can better understand humans</span> - I explore how intelligent agents can better understand human intentions, contexts, and ways of thinking.
 
 I am especially fascinated by AI as a medium for imagination: not only as a tool
-for automation, but also as a space that can naturally inspire people to reflect,
-imagine, and open up new ways of thinking.
+for automation, but also as a space that can naturally inspire people to think
+beyond habitual frames.
 
 Below are projects I am developing around these two directions.
 
