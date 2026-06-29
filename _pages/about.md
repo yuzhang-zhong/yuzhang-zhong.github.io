@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: 'Yuzhang Zhong <span class="name-chinese">钟宇璋</span> <span class="name-pronunciation">/juːˈʒɑːŋ dʒʊŋ/</span>'
-browser_title: "Yuzhang's Homepage ;)"
+browser_title: "Yuzhang Zhong ;)"
 author_profile: true
 redirect_from:
   - /about/
