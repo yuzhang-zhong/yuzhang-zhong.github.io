@@ -241,6 +241,11 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+  # Google Search Console verification file
+  - scope:
+      path: "google8d4686d6687ff390.html"
+    values:
+      sitemap: false
   # _posts
   - scope:
       path: ""
