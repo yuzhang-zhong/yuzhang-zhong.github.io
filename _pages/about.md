@@ -11,7 +11,7 @@ redirect_from:
 
 <section class="homepage-welcome" markdown="1">
 <p class="welcome-kicker">🎆 Welcome to my homepage.</p>
-<p class="welcome-lead">I am a visiting predoctoral fellow at Northwestern University, advised by <strong>Prof. Stephen Xia</strong>. I study Computer Science at the University of Macau (Honours College), expected to graduate in 2027, and studied abroad at the University of Illinois Urbana-Champaign in Spring 2026.</p>
+<p class="welcome-lead">I am a visiting predoctoral fellow at Northwestern University, where I am advised by <strong>Prof.&nbsp;Stephen&nbsp;Xia</strong>. I study Computer Science at the University of Macau (Honours College), expect to graduate in 2027, and spent Spring 2026 as an exchange student at the University of Illinois Urbana-Champaign.</p>
 </section>
 
 My research interests lie in LLMs, HCI, and human-centered AI. Specifically, I
