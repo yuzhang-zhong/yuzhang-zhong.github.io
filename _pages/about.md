@@ -78,7 +78,8 @@ free to reach out if our interests overlap.
 
 I also enjoy exploring small humanities-oriented ideas and creative tools.
 
-- <span class="project-name">Dream of the Red Chamber Emotional Landscape</span> - An interactive web project for reading <em>Dream of the Red Chamber</em> through space, characters, and emotional heat across its 120 chapters. It was invited as an excellent work for Zhihu's <em>Seeing Humanity Anew with AI</em> event.
+- <span class="project-name">Dream of the Red Chamber Emotional Landscape</span> - An interactive web project for reading <em>Dream of the Red Chamber</em> through space, characters, and emotional heat across its 120 chapters.
+  - It was invited as an excellent work for Zhihu's <em>Seeing Humanity Anew with AI</em> event.
 - <span class="project-name">Movie Companion.skill</span> - A no-spoiler, inclusive Codex movie companion skill that answers questions using only subtitle context before the safe timestamp.
 
 These ideas are not directly tied to my main research agenda, but I appreciate
