@@ -86,3 +86,12 @@ I also enjoy exploring small humanities-oriented ideas and creative tools.
 These ideas are not directly tied to my main research agenda, but I appreciate
 inspiring ideas in many forms and hope to keep expanding the boundaries of what I
 explore.
+
+<div class="visitor-counter" aria-label="Homepage visitor counter">
+  <span>Visitors</span>
+  <strong id="busuanzi_value_site_uv">--</strong>
+  <span>Views</span>
+  <strong id="busuanzi_value_site_pv">--</strong>
+</div>
+
+<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
