@@ -37,7 +37,7 @@ Selected projects I have worked on or am currently developing:
 
 ### How AI can improve humans' subjective initiative
 
-- <span class="project-name">RewindAI</span> - An AI system that helps users build a personal digital twin and simulate unchosen outcomes of past decisions, supporting deeper self-reflection.
+- <span class="project-name">RewindAI</span> - An AI system that helps users revisit past decision points and simulate how paths they did not choose might have unfolded, supporting deeper self-reflection.
 - <span class="project-name">AI-Generated Entities in Collaborative Writing</span> - A study on how AI-introduced entities influence the creative process in human-AI collaborative writing.
 - <span class="project-name">Dream Factory</span> - An interactive learning system where users role-play characters from textbook materials with LLM agents to better understand the characters, stories, and historical contexts.
 
@@ -79,7 +79,7 @@ free to reach out if our interests overlap.
 I also enjoy exploring small humanities-oriented ideas and creative tools.
 
 - <span class="project-name">Dream of the Red Chamber Emotional Landscape</span> - An interactive web project for reading <em>Dream of the Red Chamber</em> through space, characters, and emotional heat across its 120 chapters.
-  - It was invited as an excellent work for Zhihu's <em>Seeing Humanity Anew with AI</em> event.
+  - It was invited as an excellent work for <a href="https://www.zhihu.com/">Zhihu</a>'s <em>Seeing Humanity Anew with AI</em> event.
 - <span class="project-name">Movie Companion.skill</span> - A no-spoiler, inclusive Codex movie companion skill that answers questions using only subtitle context before the safe timestamp.
 
 These ideas are not directly tied to my main research agenda, but I appreciate
