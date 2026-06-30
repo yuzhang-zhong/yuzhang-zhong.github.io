@@ -88,8 +88,6 @@ inspiring ideas in many forms and hope to keep expanding the boundaries of what 
 explore.
 
 <div class="visitor-counter" aria-label="Homepage visitor counter">
-  <span>Visitors</span>
-  <strong id="busuanzi_value_site_uv">--</strong>
   <span>Views</span>
   <strong id="busuanzi_value_site_pv">--</strong>
 </div>
