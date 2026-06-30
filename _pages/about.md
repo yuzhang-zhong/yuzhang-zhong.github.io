@@ -70,9 +70,9 @@ welcome to reach out.
 
 ## I Am Looking For
 
-I am open to research collaborations and projects at the intersection of LLMs,
-HCI, and applied AI systems. Please feel free to reach out if our interests
-overlap.
+I am always looking for ambitious professors, advisors, and collaborators who
+enjoy building thoughtful AI systems with a human-centered spirit. Please feel
+free to reach out if our interests overlap.
 
 <h2 id="other-ideas">Other Ideas</h2>
 
