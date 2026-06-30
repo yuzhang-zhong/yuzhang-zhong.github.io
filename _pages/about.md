@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: 'Yuzhang Zhong <span class="name-chinese">钟宇璋</span> <span class="name-pronunciation">/juːˈʒɑːŋ dʒʊŋ/</span>'
-browser_title: "Yuzhang Zhong's Homepage | HCI & LLM Agents"
+browser_title: "Yuzhang Zhong's Homepage ;)"
 description: "Yuzhang Zhong is a visiting predoctoral fellow at Northwestern University and a Computer Science undergraduate at the University of Macau. His research explores HCI, LLM agents, and human-centered AI, focusing on how AI can help people better understand themselves and how intelligent agents can better understand human intentions, contexts, and ways of thinking."
 author_profile: true
 redirect_from:
