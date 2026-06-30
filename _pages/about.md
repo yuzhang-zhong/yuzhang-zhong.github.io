@@ -22,7 +22,7 @@ redirect_from:
 <p class="welcome-lead">I am a visiting predoctoral fellow at <a href="https://www.northwestern.edu/">Northwestern University</a>, where I am advised by <strong>Prof.&nbsp;Stephen&nbsp;Xia</strong>. I study Computer Science at the <a href="https://www.um.edu.mo/">University of Macau</a> (Honours College), expect to graduate in 2027, and spent Spring 2026 as an exchange student at the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a>.</p>
 </section>
 
-My research interests lie in LLMs, HCI, and human-centered AI. Specifically, I
+My research interests lie in LLMs, HCI, and <span class="project-name">human-centered AI</span>. Specifically, I
 focus on the bidirectional relationship between humans and AI:
 
 - <span class="project-name">How AI can enhance human subjective initiative</span> - I study how AI systems can help people explore and understand more about themselves, imagine more freely, and expand their ways of thinking.
@@ -72,8 +72,10 @@ welcome to reach out.
 ## I Am Looking For
 
 I am always looking for ambitious professors, advisors, and collaborators who
-enjoy building thoughtful AI systems with a human-centered spirit. Please feel
-free to reach out if our interests overlap.
+enjoy building thoughtful AI systems with a human-centered spirit. I am also
+happy to talk with people from the humanities, psychology, economics, and other
+fields who are interested in human-centered AI. Please feel free to reach out if
+our interests overlap.
 
 <h2 id="other-ideas">Other Ideas</h2>
 
