@@ -13,7 +13,7 @@ redirect_from:
   <a href="#about">About</a>
   <a href="#projects">Projects</a>
   <a href="#news">News</a>
-  <a href="#beyond-research">Beyond</a>
+  <a href="#beyond-research">Lifestyle</a>
   <a href="#other-ideas">Ideas</a>
 </nav>
 
@@ -30,9 +30,10 @@ focus on the bidirectional relationship between humans and AI:
 
 <p class="imagination-note">💬 I am fascinated by AI as a medium for imagination: not only as a tool for automation, but also as a space that can naturally inspire people to think beyond habitual frames.</p>
 
+<span id="projects" class="section-anchor"></span>
 Selected projects I have worked on or am currently developing:
 
-<section id="projects" class="project-directions" markdown="1">
+<section class="project-directions" markdown="1">
 
 ### How AI can improve humans' subjective initiative
 
@@ -59,7 +60,7 @@ Selected projects I have worked on or am currently developing:
 
 </section>
 
-## Beyond Research
+<h2 id="beyond-research">Beyond Research</h2>
 
 ✈️ Outside research, I enjoy travelling, board games, and singing. I have
 visited the United States, Canada, Singapore, Malaysia, and Thailand.
@@ -73,7 +74,7 @@ I am open to research collaborations and projects at the intersection of LLMs,
 HCI, and applied AI systems. Please feel free to reach out if our interests
 overlap.
 
-## Other Ideas
+<h2 id="other-ideas">Other Ideas</h2>
 
 I also enjoy exploring small humanities-oriented ideas and creative tools.
 
