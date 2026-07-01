@@ -69,6 +69,9 @@ visited the United States, Canada, Singapore, Malaysia, and Thailand.
 🌶️ I am from Chengdu, and I love spicy food. Fellow spicy-food lovers are always
 welcome to reach out.
 
+📮 I am also a RedNote creator, sharing pieces of life, romance, and reflection,
+with 36k+ likes and saves.
+
 ## I Am Looking For
 
 I am always looking for ambitious professors, advisors, and collaborators who
