@@ -43,6 +43,7 @@ Selected projects I have worked on or am currently developing:
 ### How LLMs/agents can better think and perform in human-like ways
 
 - <span class="project-name">SNS-Grasp</span> - A semantic-guided grasp generation framework that injects object-level intent into the denoising process, helping robots generate grasps that better match how humans intend to use objects.
+- <span class="project-name">TraceFork</span> - An interactive inspection system for comparing GUI-agent trajectories and seeing where human and model runs align, diverge, and converge again.
 - <span class="project-name">VagueLlama@SP500</span> - A project exploring how vague language in financial reports reflects management confidence and relates to stock-price trends.
 
 </section>
