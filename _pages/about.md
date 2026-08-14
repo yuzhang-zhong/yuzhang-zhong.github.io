@@ -38,8 +38,8 @@ Selected projects I have worked on or am currently developing:
 
 ### How AI can improve humans' subjective initiative
 
-- <span class="project-name">MirrorAI</span> - An AI system that helps users revisit past decision points and simulate how paths they did not choose might have unfolded, supporting deeper self-reflection.
-- <span class="project-name">AI-Generated Entities in Collaborative Writing</span> - A study on how AI-introduced entities influence the creative process in human-AI collaborative writing.
+- <span class="project-name">MirrorAI</span> - An AI-clone-based system that helps users revisit past decision points and simulate how paths they did not choose might have unfolded, supporting deeper self-reflection.
+- <span class="project-name">AI-Generated Entities in Collaborative Writing</span> - A theory-driven NLP and linguistics study of how AI-introduced entities influence meaning-making and the creative process in human-AI collaborative writing.
 - <span class="project-name">Dream Factory</span> - An interactive learning system where users role-play characters from textbook materials with LLM agents to better understand the characters, stories, and historical contexts.
 
 ### How LLMs/agents can better think and perform in human-like ways
@@ -85,7 +85,7 @@ our interests overlap.
 
 I also enjoy exploring small humanities-oriented ideas and creative tools.
 
-- <span class="project-name">Dream of the Red Chamber Emotional Landscape</span> - An interactive web project for reading <em>Dream of the Red Chamber</em> through space, characters, and emotional heat across its 120 chapters.
+- <span class="project-name">Dream of the Red Chamber Emotional Landscape</span> - A digital humanities project for reading <em>Dream of the Red Chamber</em> through space, characters, and emotional heat across its 120 chapters.
   - It was invited as an excellent work for <a href="https://www.zhihu.com/">Zhihu</a>'s <em>Seeing Humanity Anew with AI</em> event.
 - <span class="project-name">Movie Companion.skill</span> - A no-spoiler Codex movie companion skill designed not as an all-knowing AI, but as a more human-like companion that stays with the current moment and discusses the film without revealing what comes later.
   - It is also one of the earliest REDskills on <a href="https://www.xiaohongshu.com/">RedNote</a>.

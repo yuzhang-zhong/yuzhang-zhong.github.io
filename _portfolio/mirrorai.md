@@ -1,16 +1,16 @@
 ---
 title: "MirrorAI"
-excerpt: "An AI system that helps users revisit past decision points and simulate how paths they did not choose might have unfolded, supporting deeper self-reflection."
+excerpt: "An AI-clone-based system that helps users revisit past decision points and simulate how paths they did not choose might have unfolded, supporting deeper self-reflection."
 collection: portfolio
 permalink: /portfolio/mirrorai
 theme: initiative
 ---
 
-<span class="project-name">MirrorAI</span> is an AI system that helps users revisit past
-decision points and simulate how paths they did not choose might have unfolded.
-The goal is to support deeper self-reflection by allowing people to examine
-unmade choices, imagine possible trajectories, and reason about how their values
-and contexts shaped their decisions.
+<span class="project-name">MirrorAI</span> uses a personalized AI clone to help users
+revisit past decision points and simulate how paths they did not choose might
+have unfolded. The goal is to support deeper self-reflection by allowing people
+to examine unmade choices, imagine possible trajectories, and reason about how
+their values and contexts shaped their decisions.
 
 ## Research Question
 
