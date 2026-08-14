@@ -20,6 +20,7 @@ redirect_from:
 <section id="about" class="homepage-welcome" markdown="1">
 <p class="welcome-kicker">🎆 Welcome to my homepage.</p>
 <p class="welcome-lead">I am a visiting predoctoral fellow at <a href="https://www.northwestern.edu/">Northwestern University</a>, where I am advised by <strong>Prof.&nbsp;Stephen&nbsp;Xia</strong>. I study Computer Science at the <a href="https://www.um.edu.mo/">University of Macau</a> (Honours College), expect to graduate in 2027, and spent Spring 2026 as an exchange student at the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a>.</p>
+<p>I also collaborate with <strong><a href="https://www.cs.cmu.edu/~sherryw/">Prof.&nbsp;Sherry&nbsp;Wu</a></strong>'s <strong><a href="https://www.cs.cmu.edu/~sherryw/group.html">WInE Lab</a></strong> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>.</p>
 </section>
 
 My research interest is <span class="project-name">Human-Centered NLP</span>. Specifically, I
