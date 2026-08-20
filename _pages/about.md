@@ -37,7 +37,7 @@ Selected projects I have worked on or am currently developing:
 
 ### How AI can improve humans' subjective initiative
 
-- <span class="project-name">MirrorAI</span> - An AI-clone-based system that helps users revisit past decision points and simulate how paths they did not choose might have unfolded, supporting deeper self-reflection.
+- <span class="project-name">RewindAI</span> - An AI-clone-based system that helps users revisit past decision points and simulate how paths they did not choose might have unfolded, supporting deeper self-reflection.
 - <span class="project-name">AI-Generated Entities in Collaborative Writing</span> - A theory-driven NLP and linguistics study of how AI-introduced entities influence meaning-making and the creative process in human-AI collaborative writing.
 - <span class="project-name">Dream Factory</span> - An interactive learning system where users role-play characters from textbook materials with LLM agents to better understand the characters, stories, and historical contexts.
 
@@ -53,6 +53,7 @@ Selected projects I have worked on or am currently developing:
 
 ## News
 
+- 🎉 August 2026: Our poster, <strong><a href="{{ base_path }}/portfolio/rewindai"><em>RewindAI: Inspectable and Revisable Autobiographical Clones for Reflective Social Decisions</em></a></strong>, was accepted to the <strong><a href="https://uist.acm.org/2026/cfp/#posters">UIST 2026 Poster Track</a></strong>.
 - 🚀 August 2026: I will join <strong class="nowrap"><a href="https://www.popmart.com/">POP MART</a></strong> as an <strong class="nowrap">AI Empowerment Intern</strong>, CEO's Office.
 - 🧠 July 2026: I will attend <strong class="nowrap"><a href="https://learnlab.org/learnlab-summer-school/">CMU LearnLab Summer School</a></strong> in <strong class="nowrap">Pittsburgh</strong>, and I hope to meet people with similar research interests.
 - 🎓 May 2026: I completed my spring exchange at <strong class="nowrap"><a href="https://illinois.edu/">UIUC</a></strong>. I am grateful to <strong class="nowrap">Prof.&nbsp;Hyanghee&nbsp;Park</strong> and <strong class="nowrap">Prof.&nbsp;Tal&nbsp;August</strong>; their HCI courses helped me discover how captivating HCI research can be.
