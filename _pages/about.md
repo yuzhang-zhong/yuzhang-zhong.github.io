@@ -53,6 +53,7 @@ Selected projects I have worked on or am currently developing:
 
 ## News
 
+- 🐈 August 2026: My <strong><a href="https://xhslink.cn/o/8ZPbU0fkkqT">Stray Cats Simulator</a></strong> is now live on <strong>RedNote</strong>.
 - 🎉 August 2026: Our poster, <strong><a href="{{ base_path }}/portfolio/rewindai"><em>RewindAI: Inspectable and Revisable Autobiographical Clones for Reflective Social Decisions</em></a></strong>, was accepted to the <strong><a href="https://uist.acm.org/2026/cfp/#posters">UIST 2026 Poster Track</a></strong>.
 - 🚀 August 2026: I will join <strong class="nowrap"><a href="https://www.popmart.com/">POP MART</a></strong> as an <strong class="nowrap">AI Empowerment Intern</strong>, CEO's Office.
 - 🧠 July 2026: I will attend <strong class="nowrap"><a href="https://learnlab.org/learnlab-summer-school/">CMU LearnLab Summer School</a></strong> in <strong class="nowrap">Pittsburgh</strong>, and I hope to meet people with similar research interests.
@@ -87,6 +88,7 @@ I also enjoy exploring small humanities-oriented ideas and creative tools.
 
 - <span class="project-name">Dream of the Red Chamber Emotional Landscape</span> - A digital humanities project for reading <em>Dream of the Red Chamber</em> through space, characters, and emotional heat across its 120 chapters.
   - It was invited as an excellent work for <a href="https://www.zhihu.com/">Zhihu</a>'s <em>Seeing Humanity Anew with AI</em> event.
+- <span class="project-name"><a href="https://xhslink.cn/o/8ZPbU0fkkqT">Stray Cats Simulator</a></span> - A small interactive simulation about the everyday lives of stray cats, now available on RedNote.
 - <span class="project-name">Movie Companion.skill</span> - A no-spoiler Codex movie companion skill designed not as an all-knowing AI, but as a more human-like companion that stays with the current moment and discusses the film without revealing what comes later.
   - It is also one of the earliest REDskills on <a href="https://www.xiaohongshu.com/">RedNote</a>.
 
