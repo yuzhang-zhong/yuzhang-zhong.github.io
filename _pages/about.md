@@ -84,17 +84,9 @@ our interests overlap.
 
 <h2 id="other-ideas">Other Ideas</h2>
 
-I also enjoy exploring small humanities-oriented ideas and creative tools.
-
-- <span class="project-name">Dream of the Red Chamber Emotional Landscape</span> - A digital humanities project for reading <em>Dream of the Red Chamber</em> through space, characters, and emotional heat across its 120 chapters.
-  - It was invited as an excellent work for <a href="https://www.zhihu.com/">Zhihu</a>'s <em>Seeing Humanity Anew with AI</em> event.
-- <span class="project-name"><a href="https://xhslink.cn/o/8ZPbU0fkkqT">Stray Cats Simulator</a></span> - A small interactive simulation about the everyday lives of stray cats, now available on RedNote.
-- <span class="project-name">Movie Companion.skill</span> - A no-spoiler Codex movie companion skill designed not as an all-knowing AI, but as a more human-like companion that stays with the current moment and discusses the film without revealing what comes later.
-  - It is also one of the earliest REDskills on <a href="https://www.xiaohongshu.com/">RedNote</a>.
-
-These ideas are not directly tied to my main research agenda, but I appreciate
-inspiring ideas in many forms and hope to keep expanding the boundaries of what I
-explore.
+- <span class="project-name">Dream of the Red Chamber Emotional Landscape</span> - A digital humanities reading across 120 chapters, selected as an excellent work for <a href="https://www.zhihu.com/">Zhihu</a>'s <em>Seeing Humanity Anew with AI</em> event.
+- <span class="project-name"><a href="https://xhslink.cn/o/8ZPbU0fkkqT">Stray Cats Simulator</a></span> - A small interactive simulation on RedNote.
+- <span class="project-name">Movie Companion.skill</span> - A human-like, spoiler-free movie companion and an early REDskill on <a href="https://www.xiaohongshu.com/">RedNote</a>.
 
 <div class="visitor-counter" aria-label="Homepage visitor counter">
   <span>Views</span>
