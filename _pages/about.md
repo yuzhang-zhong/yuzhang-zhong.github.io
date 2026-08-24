@@ -53,9 +53,9 @@ Selected projects I have worked on or am currently developing:
 
 ## News
 
-- 🎉 August 2026: Our system demonstration, <strong><a href="https://openreview.net/forum?id=FxgMhKnGJU"><em>TraceFork: A System for Inspecting GUI-Agent Trajectory Forks</em></a></strong>, was accepted to <strong>EMNLP 2026 System Demonstrations</strong>.
+- 🎉 August 2026: Our work, <strong><a href="https://openreview.net/forum?id=FxgMhKnGJU"><em>TraceFork: A System for Inspecting GUI-Agent Trajectory Forks</em></a></strong>, was accepted to <strong>EMNLP 2026 System Demonstrations</strong>.
 - 🐈 August 2026: My <strong><a href="https://xhslink.cn/o/8ZPbU0fkkqT">Stray Cats Simulator</a></strong> is now live on <strong>RedNote</strong>.
-- 🎉 August 2026: Our poster, <strong><a href="{{ base_path }}/portfolio/rewindai"><em>RewindAI: Inspectable and Revisable Autobiographical Clones for Reflective Social Decisions</em></a></strong>, was accepted to the <strong><a href="https://uist.acm.org/2026/cfp/#posters">UIST 2026 Poster Track</a></strong>.
+- 🎉 August 2026: Our work, <strong><a href="{{ base_path }}/portfolio/rewindai"><em>RewindAI: Inspectable and Revisable Autobiographical Clones for Reflective Social Decisions</em></a></strong>, was accepted to the <strong><a href="https://uist.acm.org/2026/cfp/#posters">UIST 2026 Poster Track</a></strong>.
 - 🚀 August 2026: I will join <strong class="nowrap"><a href="https://www.popmart.com/">POP MART</a></strong> as an <strong class="nowrap">AI Empowerment Intern</strong>, CEO's Office.
 - 🧠 July 2026: I will attend <strong class="nowrap"><a href="https://learnlab.org/learnlab-summer-school/">CMU LearnLab Summer School</a></strong> in <strong class="nowrap">Pittsburgh</strong>, and I hope to meet people with similar research interests.
 - 🎓 May 2026: I completed my spring exchange at <strong class="nowrap"><a href="https://illinois.edu/">UIUC</a></strong>. I am grateful to <strong class="nowrap">Prof.&nbsp;Hyanghee&nbsp;Park</strong> and <strong class="nowrap">Prof.&nbsp;Tal&nbsp;August</strong>; their HCI courses helped me discover how captivating HCI research can be.
