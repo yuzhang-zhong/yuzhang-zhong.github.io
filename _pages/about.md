@@ -18,7 +18,7 @@ redirect_from:
 </nav>
 
 <section id="about" class="homepage-welcome" markdown="1">
-<p class="welcome-kicker">🎆 Welcome to my homepage.</p>
+<p class="welcome-kicker"><strong>🎆 Welcome to my homepage.</strong></p>
 <p class="welcome-lead">I am a visiting predoctoral fellow at <a href="https://www.northwestern.edu/">Northwestern University</a>, where I am advised by <strong>Prof.&nbsp;Stephen&nbsp;Xia</strong>. I study Computer Science at the <a href="https://www.um.edu.mo/">University of Macau</a> (Honours College), expect to graduate in 2027, and spent Spring 2026 as an exchange student at the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a>. I also collaborate with <strong>Prof.&nbsp;Sherry&nbsp;Wu</strong>'s <strong>WInE Lab</strong> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>.</p>
 </section>
 
@@ -88,14 +88,14 @@ Selected projects I have worked on or am currently developing:
 
 <h2 id="beyond-research">Beyond Research</h2>
 
-✈️ Outside research, I enjoy travelling, board games, and singing. I have
+✈️ Outside research, I enjoy travelling, board games, singing, and movies. I have
 visited the United States, Canada, Singapore, Malaysia, and Thailand.
 
 🌶️ I am from Chengdu, and I love spicy food. Fellow spicy-food lovers are always
 welcome to reach out.
 
-📮 I am also a RedNote creator, sharing pieces of life, romance, and reflection,
-with 38k+ likes and favorites.
+📮 I am also a RedNote creator, sharing pieces of life, romance, reflection, and
+projects I build, with 38k+ likes and favorites.
 
 ## I Am Looking For
 
@@ -112,6 +112,8 @@ I also enjoy exploring small humanities-oriented ideas and creative tools.
 - <span class="project-name">Dream of the Red Chamber Emotional Landscape</span> - A digital humanities project for reading <em>Dream of the Red Chamber</em> through space, characters, and emotional heat across 120 chapters, selected as an excellent work for <a href="https://www.zhihu.com/">Zhihu</a>'s <em>Seeing Humanity Anew with AI</em> event.
 - <span class="project-name"><a href="https://xhslink.cn/o/8ZPbU0fkkqT">Stray Cats Simulator</a></span> - An interactive simulation of stray cats' everyday lives, now on RedNote.
 - <span class="project-name">Movie Companion.skill</span> - A spoiler-free Codex movie companion that stays with the current moment instead of revealing what comes next, and one of the earliest REDskills on <a href="https://www.xiaohongshu.com/">RedNote</a>.
+
+These ideas are not directly tied to my main research agenda, but I enjoy exploring them. Please feel free to reach out if any resonate with you.
 
 <div class="visitor-counter" aria-label="Homepage visitor counter">
   <span>Views</span>
