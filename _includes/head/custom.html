@@ -215,6 +215,59 @@
     line-height: 1.48;
   }
 
+  .news-tabs {
+    margin-top: 0.7rem;
+  }
+
+  .news-tabs__list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+    width: fit-content;
+    max-width: 100%;
+    padding: 0.28rem;
+    border: 1px solid var(--global-border-color);
+    border-radius: 10px;
+    background: var(--global-toc-bg-color);
+  }
+
+  .news-tabs__tab {
+    min-height: 44px;
+    padding: 0.52rem 0.82rem;
+    border: 0;
+    border-radius: 7px;
+    background: transparent;
+    color: var(--global-text-color-light);
+    font-family: var(--anthropic-sans);
+    font-size: 0.82rem;
+    font-weight: 700;
+    line-height: 1.1;
+    cursor: pointer;
+  }
+
+  .news-tabs__tab:hover {
+    color: var(--global-text-color);
+  }
+
+  .news-tabs__tab[aria-selected="true"] {
+    background: #2f6770;
+    color: #fff;
+    box-shadow: 0 4px 12px rgba(35, 73, 80, 0.16);
+  }
+
+  .news-tabs__tab:focus-visible {
+    outline: 3px solid rgba(47, 103, 112, 0.28);
+    outline-offset: 2px;
+  }
+
+  .news-tabs__panel {
+    padding-top: 0.05rem;
+  }
+
+  .news-tabs__panel[hidden] {
+    display: none;
+  }
+
   .project-directions {
     margin: 0.55rem 0 1.1rem;
   }
@@ -385,6 +438,14 @@
 
     .project-paper-card__thumb {
       max-width: 11rem;
+    }
+
+    .news-tabs__list {
+      width: 100%;
+    }
+
+    .news-tabs__tab {
+      flex: 1 1 8rem;
     }
   }
 

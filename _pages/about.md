@@ -53,24 +53,37 @@ Selected projects I have worked on or am currently developing:
 
 ## News
 
-<p class="news-index"><strong>Explore:</strong> <a href="#as-a-researcher">As a Researcher</a> · <a href="#as-a-developer">As a Developer</a> · <a href="#as-a-student">As a Student</a></p>
+<div class="news-tabs" data-news-tabs>
+  <div class="news-tabs__list" role="tablist" aria-label="News categories">
+    <button class="news-tabs__tab" type="button" role="tab" id="news-tab-researcher" aria-controls="news-panel-researcher" aria-selected="true">As a Researcher</button>
+    <button class="news-tabs__tab" type="button" role="tab" id="news-tab-developer" aria-controls="news-panel-developer" aria-selected="false" tabindex="-1">As a Developer</button>
+    <button class="news-tabs__tab" type="button" role="tab" id="news-tab-student" aria-controls="news-panel-student" aria-selected="false" tabindex="-1">As a Student</button>
+  </div>
 
-### As a Researcher
+  <div class="news-tabs__panel" id="news-panel-researcher" role="tabpanel" aria-labelledby="news-tab-researcher">
+    <ul>
+      <li>🎉 August 2026: Our work, <strong><em>TraceFork: A System for Inspecting GUI-Agent Trajectory Forks</em></strong>, was accepted to <strong>EMNLP 2026 System Demonstrations</strong>.</li>
+      <li>🎉 August 2026: Our work, <strong><a href="{{ base_path }}/portfolio/rewindai"><em>RewindAI: Inspectable and Revisable Autobiographical Clones for Reflective Social Decisions</em></a></strong>, was accepted to the <strong><a href="https://uist.acm.org/2026/cfp/#posters">UIST 2026 Poster Track</a></strong>.</li>
+      <li>📄 March 2026: Our paper <strong class="nowrap"><a href="{{ base_path }}/publication/2026-sns-grasp">SNS-Grasp</a></strong> was accepted to <strong class="nowrap"><a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a></strong>.</li>
+    </ul>
+  </div>
 
-- 🎉 August 2026: Our work, <strong><em>TraceFork: A System for Inspecting GUI-Agent Trajectory Forks</em></strong>, was accepted to <strong>EMNLP 2026 System Demonstrations</strong>.
-- 🎉 August 2026: Our work, <strong><a href="{{ base_path }}/portfolio/rewindai"><em>RewindAI: Inspectable and Revisable Autobiographical Clones for Reflective Social Decisions</em></a></strong>, was accepted to the <strong><a href="https://uist.acm.org/2026/cfp/#posters">UIST 2026 Poster Track</a></strong>.
-- 📄 March 2026: Our paper <strong class="nowrap"><a href="{{ base_path }}/publication/2026-sns-grasp">SNS-Grasp</a></strong> was accepted to <strong class="nowrap"><a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a></strong>.
+  <div class="news-tabs__panel" id="news-panel-developer" role="tabpanel" aria-labelledby="news-tab-developer" hidden>
+    <ul>
+      <li>🐈 August 2026: My <strong><a href="https://xhslink.cn/o/8ZPbU0fkkqT">Stray Cats Simulator</a></strong> launched on <strong>RedNote</strong> and reached <strong>40,000+ users</strong> in its first week—still growing fast. People really love cats!</li>
+      <li>🚀 August 2026: I will join <strong class="nowrap"><a href="https://www.popmart.com/">POP MART</a></strong> as an <strong class="nowrap">AI Empowerment Intern</strong>, CEO's Office.</li>
+      <li>🏆 July 2025: <strong class="nowrap">Dream Factory</strong> won the <strong>Regional 2nd Place Award</strong> at <a href="https://www.vivo.com/">Vivo</a>'s AI Innovation Competition.</li>
+    </ul>
+  </div>
 
-### As a Developer
+  <div class="news-tabs__panel" id="news-panel-student" role="tabpanel" aria-labelledby="news-tab-student" hidden>
+    <ul>
+      <li>🧠 July 2026: I will attend <strong class="nowrap"><a href="https://learnlab.org/learnlab-summer-school/">CMU LearnLab Summer School</a></strong> in <strong class="nowrap">Pittsburgh</strong>, and I hope to meet people with similar research interests.</li>
+      <li>🎓 May 2026: I completed my spring exchange at <strong class="nowrap"><a href="https://illinois.edu/">UIUC</a></strong>. I am grateful to <strong class="nowrap">Prof.&nbsp;Hyanghee&nbsp;Park</strong> and <strong class="nowrap">Prof.&nbsp;Tal&nbsp;August</strong>; their HCI courses helped me discover how captivating HCI research can be.</li>
+    </ul>
+  </div>
+</div>
 
-- 🐈 August 2026: My <strong><a href="https://xhslink.cn/o/8ZPbU0fkkqT">Stray Cats Simulator</a></strong> launched on <strong>RedNote</strong> and reached <strong>40,000+ users</strong> in its first week—still growing fast. People really love cats!
-- 🚀 August 2026: I will join <strong class="nowrap"><a href="https://www.popmart.com/">POP MART</a></strong> as an <strong class="nowrap">AI Empowerment Intern</strong>, CEO's Office.
-- 🏆 July 2025: <strong class="nowrap">Dream Factory</strong> won the <strong>Regional 2nd Place Award</strong> at <a href="https://www.vivo.com/">Vivo</a>'s AI Innovation Competition.
-
-### As a Student
-
-- 🧠 July 2026: I will attend <strong class="nowrap"><a href="https://learnlab.org/learnlab-summer-school/">CMU LearnLab Summer School</a></strong> in <strong class="nowrap">Pittsburgh</strong>, and I hope to meet people with similar research interests.
-- 🎓 May 2026: I completed my spring exchange at <strong class="nowrap"><a href="https://illinois.edu/">UIUC</a></strong>. I am grateful to <strong class="nowrap">Prof.&nbsp;Hyanghee&nbsp;Park</strong> and <strong class="nowrap">Prof.&nbsp;Tal&nbsp;August</strong>; their HCI courses helped me discover how captivating HCI research can be.
 </section>
 
 <h2 id="beyond-research">Beyond Research</h2>
