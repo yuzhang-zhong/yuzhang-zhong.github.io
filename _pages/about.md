@@ -95,7 +95,7 @@ visited the United States, Canada, Singapore, Malaysia, and Thailand.
 welcome to reach out.
 
 📮 I am also a RedNote creator, sharing pieces of life, romance, and reflection,
-with 36k+ likes and saves.
+with 38k+ likes and favorites.
 
 ## I Am Looking For
 
@@ -107,9 +107,11 @@ our interests overlap.
 
 <h2 id="other-ideas">Other Ideas</h2>
 
-- <span class="project-name">Dream of the Red Chamber Emotional Landscape</span> - A digital humanities reading across 120 chapters, selected as an excellent work for <a href="https://www.zhihu.com/">Zhihu</a>'s <em>Seeing Humanity Anew with AI</em> event.
-- <span class="project-name"><a href="https://xhslink.cn/o/8ZPbU0fkkqT">Stray Cats Simulator</a></span> - A small interactive simulation on RedNote.
-- <span class="project-name">Movie Companion.skill</span> - A human-like, spoiler-free movie companion and an early REDskill on <a href="https://www.xiaohongshu.com/">RedNote</a>.
+I also enjoy exploring small humanities-oriented ideas and creative tools.
+
+- <span class="project-name">Dream of the Red Chamber Emotional Landscape</span> - A digital humanities project for reading <em>Dream of the Red Chamber</em> through space, characters, and emotional heat across 120 chapters, selected as an excellent work for <a href="https://www.zhihu.com/">Zhihu</a>'s <em>Seeing Humanity Anew with AI</em> event.
+- <span class="project-name"><a href="https://xhslink.cn/o/8ZPbU0fkkqT">Stray Cats Simulator</a></span> - An interactive simulation of stray cats' everyday lives, now on RedNote.
+- <span class="project-name">Movie Companion.skill</span> - A spoiler-free Codex movie companion that stays with the current moment instead of revealing what comes next, and one of the earliest REDskills on <a href="https://www.xiaohongshu.com/">RedNote</a>.
 
 <div class="visitor-counter" aria-label="Homepage visitor counter">
   <span>Views</span>
