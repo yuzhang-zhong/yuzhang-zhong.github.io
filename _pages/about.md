@@ -70,7 +70,7 @@ Selected projects I have worked on or am currently developing:
 
   <div class="news-tabs__panel" id="news-panel-developer" role="tabpanel" aria-labelledby="news-tab-developer" hidden>
     <ul>
-      <li>🐈 August 2026: My <strong><a href="https://xhslink.cn/o/8ZPbU0fkkqT">Stray Cats Simulator</a></strong> launched on <strong>RedNote</strong> and reached <strong>40,000+ users</strong> in its first week—still growing fast. People really love cats!</li>
+      <li>🐈 August 2026: My <strong><a href="https://xhslink.cn/o/8ZPbU0fkkqT">Stray Cats Simulator</a></strong> surpassed <strong>200,000 users</strong> within 10 days of launching on <strong>RedNote</strong> and ranked <strong>#3 among all mini-games</strong> on the platform.</li>
       <li>🚀 August 2026: I will join <strong class="nowrap"><a href="https://www.popmart.com/">POP MART</a></strong> as an <strong class="nowrap">AI Empowerment Intern</strong>, CEO's Office.</li>
       <li>🏆 July 2025: <strong class="nowrap">Dream Factory</strong> won the <strong>Regional 2nd Place Award</strong> at <a href="https://www.vivo.com/">Vivo</a>'s AI Innovation Competition.</li>
     </ul>
@@ -110,7 +110,7 @@ our interests overlap.
 I also enjoy exploring small humanities-oriented ideas and creative tools.
 
 - <span class="project-name">Dream of the Red Chamber Emotional Landscape</span> - A digital humanities project for reading <em>Dream of the Red Chamber</em> through space, characters, and emotional heat across 120 chapters, selected as an excellent work for <a href="https://www.zhihu.com/">Zhihu</a>'s <em>Seeing Humanity Anew with AI</em> event.
-- <span class="project-name"><a href="https://xhslink.cn/o/8ZPbU0fkkqT">Stray Cats Simulator</a></span> - An interactive simulation of stray cats' everyday lives, now on RedNote.
+- <span class="project-name"><a href="https://xhslink.cn/o/8ZPbU0fkkqT">Stray Cats Simulator</a></span> - An interactive simulation of stray cats' everyday lives on RedNote, reaching 200,000+ users in 10 days and ranking #3 among all mini-games on the platform.
 - <span class="project-name">Movie Companion.skill</span> - A spoiler-free Codex movie companion that stays with the current moment instead of revealing what comes next, and one of the earliest REDskills on <a href="https://www.xiaohongshu.com/">RedNote</a>.
 
 These ideas are not directly tied to my main research agenda, but I enjoy exploring them. Please feel free to reach out if any resonate with you.
