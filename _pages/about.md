@@ -2,7 +2,7 @@
 permalink: /
 title: 'Yuzhang Zhong <span class="name-chinese">钟宇璋</span> <span class="name-pronunciation">/juːˈʒɑːŋ dʒʊŋ/</span>'
 browser_title: "Yuzhang Zhong's Homepage ;)"
-description: "Yuzhang Zhong is a visiting predoctoral fellow at Northwestern University and a Computer Science undergraduate at the University of Macau. His research focuses on Human-Centered NLP, exploring how language technologies can help people better understand themselves and how intelligent agents can better understand human intentions, contexts, and ways of thinking."
+description: "Yuzhang Zhong is a visiting predoctoral fellow at Northwestern University and a Computer Science undergraduate at the University of Macau. His research focuses on Human-Centered AI Agents, exploring how AI agents can strengthen human agency and better understand human intentions, contexts, and ways of thinking."
 author_profile: true
 redirect_from:
   - /about/
@@ -22,11 +22,11 @@ redirect_from:
 <p class="welcome-lead">I am a visiting predoctoral fellow at <a href="https://www.northwestern.edu/">Northwestern University</a>, where I am advised by <strong>Prof.&nbsp;Stephen&nbsp;Xia</strong>. I study Computer Science at the <a href="https://www.um.edu.mo/">University of Macau</a> (Honours College), expect to graduate in 2027, and spent Spring 2026 as an exchange student at the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a>. I also collaborate with <strong>Prof.&nbsp;Sherry&nbsp;Wu</strong>'s <strong>WInE Lab</strong> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>.</p>
 </section>
 
-My research interest is <span class="project-name">Human-Centered NLP</span>. Specifically, I
-focus on the bidirectional relationship between humans and language technologies:
+My research interest is <span class="project-name">Human-Centered AI Agents</span>. Specifically, I
+focus on the bidirectional relationship between humans and AI agents:
 
-- <span class="project-name">How AI can enhance human subjective initiative</span> - I study how AI systems can help people explore and understand more about themselves, imagine more freely, and expand their ways of thinking.
-- <span class="project-name">How LLMs/agents can better think and perform in human-like ways</span> - I explore how intelligent agents can reason, act, and interact in ways that better reflect human intentions, contexts, and ways of thinking.
+- <span class="project-name">How AI agents can enhance human agency</span> - I study how AI agents can help people explore and understand more about themselves, imagine more freely, and expand their ways of thinking.
+- <span class="project-name">How AI agents can better understand humans and act in human-like ways</span> - I explore how AI agents can reason, act, and interact in ways that better reflect human intentions, contexts, and ways of thinking.
 
 <p class="imagination-note">💬 I am fascinated by AI as a medium for imagination: not only as a tool for automation, but also as a space that can naturally inspire people to think beyond habitual frames.</p>
 
@@ -35,13 +35,13 @@ Selected projects I have worked on or am currently developing:
 
 <section class="project-directions" markdown="1">
 
-### How AI can improve humans' subjective initiative
+### How AI agents can enhance human agency
 
 - <span class="project-name">RewindAI</span> - An AI-clone-based system that helps users revisit past decision points and simulate how paths they did not choose might have unfolded, supporting deeper self-reflection.
 - <span class="project-name">AI-Generated Entities in Collaborative Writing</span> - A theory-driven NLP and linguistics study of how AI-introduced entities influence meaning-making and the creative process in human-AI collaborative writing.
 - <span class="project-name">Dream Factory</span> - An interactive learning system where users role-play characters from textbook materials with LLM agents to better understand the characters, stories, and historical contexts.
 
-### How LLMs/agents can better think and perform in human-like ways
+### How AI agents can better understand humans and act in human-like ways
 
 - <span class="project-name">SNS-Grasp</span> - A semantic-guided grasp generation framework that injects object-level intent into the denoising process, helping robots generate grasps that better match how humans intend to use objects.
 - <span class="project-name">Flexible Smart Glasses</span> - A reconfigurable smart-glasses platform that empowers users to actively configure wearable sensors for context-aware AI interaction, supporting more personalized robot control, physiological awareness, and embodied self-agency.
@@ -102,7 +102,7 @@ projects I build, with 38k+ likes and favorites.
 I am always looking for ambitious professors, advisors, and collaborators who
 enjoy building thoughtful AI systems with a human-centered spirit. I am also
 happy to talk with people from the humanities, psychology, economics, and other
-fields who are interested in Human-Centered NLP. Please feel free to reach out if
+fields who are interested in Human-Centered AI Agents. Please feel free to reach out if
 our interests overlap.
 
 <h2 id="other-ideas">Other Ideas</h2>
