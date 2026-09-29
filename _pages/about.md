@@ -12,7 +12,6 @@ redirect_from:
 <nav class="home-right-nav" aria-label="Homepage sections">
   <a href="#about">About</a>
   <a href="#research">Research</a>
-  <a href="#projects">Projects</a>
   <a href="#news">News</a>
   <a href="#beyond-research">Lifestyle</a>
   <a href="#other-ideas">Ideas</a>
@@ -52,13 +51,7 @@ My research focuses on <span class="project-name">Human-Agent Interaction</span>
 
 - <span class="project-name">Dream Factory</span> - An interactive learning system where users role-play characters from textbook materials with LLM agents to understand their stories and historical contexts.
 
-</section>
-
-<h2 id="projects">Other Selected Projects</h2>
-
-<section class="project-directions" markdown="1">
-
-### Embodied interaction
+### Embodied Human-Agent Interaction
 
 - <span class="project-name">SNS-Grasp</span> - A semantic-guided grasp generation framework that injects object-level intent into the denoising process, helping robots generate grasps that better match how humans intend to use objects.
 - <span class="project-name">Flexible Smart Glasses</span> - A reconfigurable smart-glasses platform that empowers users to actively configure wearable sensors for context-aware AI interaction, supporting more personalized robot control, physiological awareness, and embodied self-agency.
