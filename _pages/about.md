@@ -27,20 +27,20 @@ redirect_from:
 
 ## Research Interests
 
-My research focuses on <span class="project-name">Human-Agent Interaction</span>, especially:
+My research focuses on <span class="project-name">Human-Agent Interaction</span>: understanding how AI agents behave in human-centered settings, and designing experiences in which people learn with them.
 
-### Understanding and Improving LLM-Agent Behavior in Human-Centered Settings:
+### Understanding Agent Behavior
 
-<p class="research-definition">Making agent behavior visible, diagnosable, and revisable so people can understand and shape AI decisions.</p>
+<p class="research-definition">I study how to make agent behavior easier to inspect, compare, and revise.</p>
 
-- <span class="project-name">TraceFork</span> [EMNLP 2026 Demo] - Compares GUI-agent trajectories to diagnose where their behavior diverges.
-- <span class="project-name">RewindAI</span> [UIST 2026 Poster] - Inspectable and revisable autobiographical clones for reflecting on past social decisions and paths not taken.
+- <span class="project-name">TraceFork</span> [EMNLP 2026 Demo] - A successful or failed task outcome can hide the decisions a GUI agent made along the way. TraceFork aligns different runs of the same task and highlights where their trajectories diverge or rejoin, helping researchers diagnose meaningful behavioral differences.
+- <span class="project-name">RewindAI</span> [UIST 2026 Poster] - Personal decisions often depend on relationships and values that a generic AI model cannot see. RewindAI lets people inspect and revise an autobiographical clone, then explore how paths they did not choose might have unfolded. The goal is reflection, not prediction.
 
-### Learning with AI Agents:
+### Learning with AI Agents
 
-<p class="research-definition">Designing agent-supported experiences that help people learn through role-play and exploration.</p>
+<p class="research-definition">I explore how interacting with agents can make learning more active and imaginative.</p>
 
-- <span class="project-name">Dream Factory</span> - Role-play with LLM agents from textbook stories to explore characters and historical contexts.
+- <span class="project-name">Dream Factory</span> - Learners step into textbook stories and role-play alongside LLM-powered characters. Their conversations and choices offer a way to explore character motivations, the story, and its historical context beyond a conventional reading.
 
 </section>
 
