@@ -11,6 +11,7 @@ redirect_from:
 
 <nav class="home-right-nav" aria-label="Homepage sections">
   <a href="#about">About</a>
+  <a href="#research">Research</a>
   <a href="#projects">Projects</a>
   <a href="#news">News</a>
   <a href="#beyond-research">Lifestyle</a>
@@ -22,26 +23,34 @@ redirect_from:
 <p class="welcome-lead">I am a visiting predoctoral fellow at <a href="https://www.northwestern.edu/">Northwestern University</a>, where I am advised by <strong>Prof.&nbsp;Stephen&nbsp;Xia</strong>. I study Computer Science at the <a href="https://www.um.edu.mo/">University of Macau</a> (Honours College), expect to graduate in 2027, and spent Spring 2026 as an exchange student at the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a>. I also collaborate with <strong>Prof.&nbsp;Sherry&nbsp;Wu</strong>'s <strong>WInE Lab</strong> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>.</p>
 </section>
 
-My research interest is <span class="project-name">Human-Agent Interaction</span>. I study the two-way relationship between people and AI agents:
+<section id="research" class="research-interests" markdown="1">
 
-- <span class="project-name">Supporting human agency</span> - How people can inspect and steer agents, and use them to reflect, create, and learn.
-- <span class="project-name">Understanding human intent and context</span> - How agents can interpret language, behavior, and embodied signals to interact more thoughtfully.
+## Research Interests
+
+My research focuses on <span class="project-name">Human-Agent Interaction</span>, especially:
+
+### Understanding and Improving LLM-Agent Behavior in Human-Centered Settings
+
+- **Inspect and diagnose meaningful behavioral differences**
+  - <span class="project-name">TraceFork</span> [EMNLP 2026 Demo] - A system for researchers to compare and inspect GUI-agent trajectories.
+- **Make agent models inspectable and correctable**
+  - <span class="project-name">RewindAI</span> [UIST 2026 Poster] - Inspectable and revisable autobiographical clones that help people reflect on past decisions and paths not taken.
+
+</section>
 
 <p class="imagination-note">💬 I am fascinated by AI as a medium for imagination: not only as a tool for automation, but also as a space that can naturally inspire people to think beyond habitual frames.</p>
 
 <span id="projects" class="section-anchor"></span>
-Selected projects I have worked on or am currently developing:
+## Other Selected Projects
 
 <section class="project-directions" markdown="1">
 
-### Human agency, reflection, and creativity
+### Creativity and learning
 
-- <span class="project-name">RewindAI</span> [UIST 2026 Poster] - An AI-clone-based system that helps users revisit past decision points and simulate how paths they did not choose might have unfolded, supporting deeper self-reflection.
-- <span class="project-name">TraceFork</span> [EMNLP 2026 Demo] - A system for inspecting GUI-agent trajectory forks and comparing the paths an agent could take.
 - <span class="project-name">AI-Generated Entities in Collaborative Writing</span> - A theory-driven NLP and linguistics study of how AI-introduced entities influence meaning-making and the creative process in human-AI collaborative writing.
 - <span class="project-name">Dream Factory</span> - An interactive learning system where users role-play characters from textbook materials with LLM agents to better understand the characters, stories, and historical contexts.
 
-### Embodied and context-aware interaction
+### Embodied interaction
 
 - <span class="project-name">SNS-Grasp</span> - A semantic-guided grasp generation framework that injects object-level intent into the denoising process, helping robots generate grasps that better match how humans intend to use objects.
 - <span class="project-name">Flexible Smart Glasses</span> - A reconfigurable smart-glasses platform that empowers users to actively configure wearable sensors for context-aware AI interaction, supporting more personalized robot control, physiological awareness, and embodied self-agency.
