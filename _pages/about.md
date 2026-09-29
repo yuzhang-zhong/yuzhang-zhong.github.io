@@ -26,33 +26,52 @@ redirect_from:
 
 ## Research Interests
 
-My research focuses on <span class="project-name">Human-Agent Interaction</span>, especially:
+<p class="research-intro">My research focuses on <span class="project-name">Human-Agent Interaction</span> through two complementary directions.</p>
 
-### Understanding and Improving LLM-Agent Behavior in Human-Centered Settings: <span class="research-heading-definition">Making agent behavior visible, diagnosable, and revisable so people can understand and shape AI decisions.</span>
-
-<ul class="research-questions">
-  <li>
-    <strong>Inspect and diagnose meaningful behavioral differences</strong>
-    <div class="research-project">
-      <p><span class="project-name">TraceFork</span> [EMNLP 2026 Demo] - A system for researchers to compare and inspect GUI-agent trajectories.</p>
+<div class="research-theme">
+  <header class="research-theme__heading">
+    <span class="research-theme__index" aria-hidden="true">01</span>
+    <div>
+      <h3>Understanding and Improving LLM-Agent Behavior in Human-Centered Settings:</h3>
+      <p class="research-theme__definition">Making agent behavior visible, diagnosable, and revisable so people can understand and shape AI decisions.</p>
     </div>
-  </li>
-  <li>
-    <strong>Make agent models inspectable and correctable</strong>
-    <div class="research-project">
-      <p><span class="project-name">RewindAI</span> [UIST 2026 Poster] - Inspectable and revisable autobiographical clones that help people reflect on past decisions and paths not taken.</p>
+  </header>
+  <div class="research-theme__projects">
+    <div class="research-theme__project">
+      <h4>Inspect and diagnose meaningful behavioral differences</h4>
+      <p><span class="project-name">TraceFork</span> <span class="research-tag">[EMNLP 2026 Demo]</span> - Compares GUI-agent trajectories to diagnose where their behavior diverges.</p>
     </div>
-  </li>
-</ul>
+    <div class="research-theme__project">
+      <h4>Make agent models inspectable and correctable</h4>
+      <p><span class="project-name">RewindAI</span> <span class="research-tag">[UIST 2026 Poster]</span> - Inspectable and revisable autobiographical clones for reflecting on past social decisions and paths not taken.</p>
+    </div>
+  </div>
+</div>
 
-### Learning with AI Agents
+<div class="research-theme">
+  <header class="research-theme__heading">
+    <span class="research-theme__index" aria-hidden="true">02</span>
+    <div>
+      <h3>Embodied Human-Agent Interaction:</h3>
+      <p class="research-theme__definition">Grounding agent behavior in human intent, physical action, and sensed context.</p>
+    </div>
+  </header>
+  <div class="research-theme__projects">
+    <div class="research-theme__project">
+      <h4><span class="project-name">SNS-Grasp</span></h4>
+      <p>Guides robotic grasp generation with object-level intent, producing grasps that match how people plan to use an object.</p>
+    </div>
+    <div class="research-theme__project">
+      <h4><span class="project-name">Flexible Smart Glasses</span></h4>
+      <p>User-configurable smart glasses for context-aware AI interaction, personalized robot control, physiological awareness, and embodied self-agency.</p>
+    </div>
+  </div>
+</div>
 
-- <span class="project-name">Dream Factory</span> - An interactive learning system where users role-play characters from textbook materials with LLM agents to understand their stories and historical contexts.
-
-### Embodied Human-Agent Interaction: <span class="research-heading-definition">Grounding agent behavior in human intent, physical action, and sensed context.</span>
-
-- <span class="project-name">SNS-Grasp</span> - A semantic-guided grasp generation framework that injects object-level intent into the denoising process, helping robots generate grasps that better match how humans intend to use objects.
-- <span class="project-name">Flexible Smart Glasses</span> - A reconfigurable smart-glasses platform that empowers users to actively configure wearable sensors for context-aware AI interaction, supporting more personalized robot control, physiological awareness, and embodied self-agency.
+<div class="research-aside">
+  <span class="research-aside__label">Learning with AI Agents</span>
+  <p><span class="project-name">Dream Factory</span> - Role-play with LLM agents from textbook stories to explore characters and historical contexts.</p>
+</div>
 
 </section>
 
