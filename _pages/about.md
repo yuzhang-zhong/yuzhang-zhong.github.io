@@ -31,12 +31,12 @@ My research is in <span class="project-name">Human-Agent Interaction</span>, wit
 
 ### Understanding Agent Behavior
 
-- <span class="project-name">TraceFork</span> [EMNLP 2026 Demo] aligns GUI-agent trajectories from different runs of the same task. Researchers can compare the aligned steps to find where the agents' paths split. The system also shows whether those paths later rejoin.
-- <span class="project-name">RewindAI</span> [UIST 2026 Poster] lets users revisit a past social decision through an autobiographical AI clone. They can inspect and correct the clone before simulating a path they did not take.
+- <span class="project-name">TraceFork</span> [EMNLP 2026 Demo] aligns GUI-agent trajectories from different runs of the same task. It uses each action and its page context to match steps even when the agents navigate differently. Researchers can examine where the paths diverge and whether they later rejoin.
+- <span class="project-name">RewindAI</span> [UIST 2026 Poster] uses an autobiographical AI clone to revisit past social decisions. Users can inspect the experiences and relationships behind the clone's responses, then revise parts that feel wrong. They can also simulate a path they did not take to reflect on that choice.
 
 ### Learning with AI Agents
 
-- <span class="project-name">Dream Factory</span> turns textbook stories into role-play with LLM agents. Learners play one character and talk with agents playing the others to understand the characters' choices in historical context.
+- <span class="project-name">Dream Factory</span> turns textbook stories into role-play with LLM agents. Learners play one character while agents play the others. The agents respond in character, so learners can explore why those characters act as they do within the story's historical setting.
 
 </section>
 
@@ -46,10 +46,10 @@ My research is in <span class="project-name">Human-Agent Interaction</span>, wit
 
 ### Embodied Human-Agent Interaction
 
-<p class="research-definition">I also explore how agents can respond to what people want to do in physical settings.</p>
+<p class="research-definition">These projects look at how human intent shapes an agent's actions in physical settings.</p>
 
-- <span class="project-name">SNS-Grasp</span> - Uses a person's intended use of an object to guide where a robot grasps it. The grasp should fit what the person wants to do next.
-- <span class="project-name">Flexible Smart Glasses</span> - Wearers choose which signals the AI responds to through the glasses. The project also explores robot control and physiological sensing.
+- <span class="project-name">SNS-Grasp</span> uses semantic information about an object to guide robotic grasp generation. It favors grasps that fit what the person plans to do with the object.
+- <span class="project-name">Flexible Smart Glasses</span> lets wearers decide which sensors the AI uses. The project explores how that choice affects robot control and awareness of bodily signals.
 
 </section>
 
