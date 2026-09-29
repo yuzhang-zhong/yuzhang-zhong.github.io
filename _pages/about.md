@@ -2,7 +2,7 @@
 permalink: /
 title: 'Yuzhang Zhong <span class="name-chinese">钟宇璋</span> <span class="name-pronunciation">/juːˈʒɑːŋ dʒʊŋ/</span>'
 browser_title: "Yuzhang Zhong's Homepage ;)"
-description: "Yuzhang Zhong is a visiting predoctoral fellow at Northwestern University and a Computer Science undergraduate at the University of Macau. His research focuses on Human-Agent Interaction, exploring how AI agents can support human agency and better understand human intentions and contexts."
+description: "Yuzhang Zhong is a visiting predoctoral fellow at Northwestern University and a Computer Science undergraduate at the University of Macau. He studies how people understand and learn with AI agents."
 author_profile: true
 redirect_from:
   - /about/
@@ -20,27 +20,23 @@ redirect_from:
 
 <section id="about" class="homepage-welcome" markdown="1">
 <p class="welcome-kicker"><strong>🎆 Welcome to my homepage.</strong></p>
-<p class="welcome-lead">I am a visiting predoctoral fellow at <a href="https://www.northwestern.edu/">Northwestern University</a>, where I am advised by <strong>Prof.&nbsp;Stephen&nbsp;Xia</strong>. I study Computer Science at the <a href="https://www.um.edu.mo/">University of Macau</a> (Honours College), expect to graduate in 2027, and spent Spring 2026 as an exchange student at the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a>. I also collaborate with <strong>Prof.&nbsp;Sherry&nbsp;Wu</strong>'s <strong>WInE Lab</strong> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>.</p>
+<p class="welcome-lead">I am a visiting predoctoral fellow at <a href="https://www.northwestern.edu/">Northwestern University</a>, where I am advised by <strong>Prof.&nbsp;Stephen&nbsp;Xia</strong>. I study Computer Science at the <a href="https://www.um.edu.mo/">University of Macau</a> (Honours College) and expect to graduate in 2027. I spent Spring 2026 as an exchange student at the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a>. I also collaborate with <strong>Prof.&nbsp;Sherry&nbsp;Wu</strong>'s <strong>WInE Lab</strong> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>.</p>
 </section>
 
 <section id="research" class="research-interests" markdown="1">
 
 ## Research Interests
 
-My research focuses on <span class="project-name">Human-Agent Interaction</span>: understanding how AI agents behave in human-centered settings, and designing experiences in which people learn with them.
+I study <span class="project-name">Human-Agent Interaction</span>. I want to understand what agents do during a task and what people can learn by working with them.
 
 ### Understanding Agent Behavior
 
-<p class="research-definition">I study how to make agent behavior easier to inspect, compare, and revise.</p>
-
-- <span class="project-name">TraceFork</span> [EMNLP 2026 Demo] - A successful or failed task outcome can hide the decisions a GUI agent made along the way. TraceFork aligns different runs of the same task and highlights where their trajectories diverge or rejoin, helping researchers diagnose meaningful behavioral differences.
-- <span class="project-name">RewindAI</span> [UIST 2026 Poster] - Personal decisions often depend on relationships and values that a generic AI model cannot see. RewindAI lets people inspect and revise an autobiographical clone, then explore how paths they did not choose might have unfolded. The goal is reflection, not prediction.
+- <span class="project-name">TraceFork</span> [EMNLP 2026 Demo] - A final success or failure tells us little about what happened along the way. TraceFork lines up two GUI-agent runs of the same task so researchers can see where their paths split and whether they come back together.
+- <span class="project-name">RewindAI</span> [UIST 2026 Poster] - A generic AI clone knows little about why someone made a difficult social choice. In RewindAI, people can inspect a clone built from their own experiences and correct what feels wrong. They can then revisit a choice through a path they did not take, without treating the simulation as a forecast.
 
 ### Learning with AI Agents
 
-<p class="research-definition">I explore how interacting with agents can make learning more active and imaginative.</p>
-
-- <span class="project-name">Dream Factory</span> - Learners step into textbook stories and role-play alongside LLM-powered characters. Their conversations and choices offer a way to explore character motivations, the story, and its historical context beyond a conventional reading.
+- <span class="project-name">Dream Factory</span> - Learners enter textbook stories as characters and talk with LLM agents playing the other roles. The conversations are designed to help them understand why a character acted as they did and what was happening around them.
 
 </section>
 
@@ -50,10 +46,10 @@ My research focuses on <span class="project-name">Human-Agent Interaction</span>
 
 ### Embodied Human-Agent Interaction
 
-<p class="research-definition">Exploratory work on human intent, physical action, and sensed context.</p>
+<p class="research-definition">I also explore how agents can respond to what people want to do in physical settings.</p>
 
-- <span class="project-name">SNS-Grasp</span> - Guides robotic grasp generation with object-level intent, producing grasps that match how people plan to use an object.
-- <span class="project-name">Flexible Smart Glasses</span> - User-configurable smart glasses for context-aware AI interaction, personalized robot control, physiological awareness, and embodied self-agency.
+- <span class="project-name">SNS-Grasp</span> - Uses a person's intended use of an object to guide where a robot grasps it. The grasp should fit what the person wants to do next.
+- <span class="project-name">Flexible Smart Glasses</span> - Wearers choose which signals the AI responds to through the glasses. The project also explores robot control and physiological sensing.
 
 </section>
 
@@ -78,7 +74,7 @@ My research focuses on <span class="project-name">Human-Agent Interaction</span>
 
   <div class="news-tabs__panel" id="news-panel-developer" role="tabpanel" aria-labelledby="news-tab-developer" hidden>
     <ul>
-      <li>🐈 September 2026: My <strong><a href="https://xhslink.cn/o/8ZPbU0fkkqT">Stray Cats Simulator</a></strong> has reached <strong>700k+ users</strong> on <strong>RedNote</strong>, after passing 200,000 in its first 10 days and ranking <strong>#3 among all mini-games</strong> on the platform.</li>
+      <li>🐈 September 2026: My <strong><a href="https://xhslink.cn/o/8ZPbU0fkkqT">Stray Cats Simulator</a></strong> has reached <strong>700k+ users</strong> on <strong>RedNote</strong>. It passed 200,000 users in its first 10 days and ranked <strong>#3 among all mini-games</strong> on the platform.</li>
       <li>🚀 August 2026: I will join <strong class="nowrap"><a href="https://www.popmart.com/">POP MART</a></strong> as an <strong class="nowrap">AI Empowerment Intern</strong>, CEO's Office.</li>
       <li>🏆 July 2025: <strong class="nowrap">Dream Factory</strong> won the <strong>Regional 2nd Place Award</strong> at <a href="https://www.vivo.com/">Vivo</a>'s AI Innovation Competition.</li>
     </ul>
@@ -87,7 +83,7 @@ My research focuses on <span class="project-name">Human-Agent Interaction</span>
   <div class="news-tabs__panel" id="news-panel-student" role="tabpanel" aria-labelledby="news-tab-student" hidden>
     <ul>
       <li>🧠 July 2026: I will attend <strong class="nowrap"><a href="https://learnlab.org/learnlab-summer-school/">CMU LearnLab Summer School</a></strong> in <strong class="nowrap">Pittsburgh</strong>, and I hope to meet people with similar research interests.</li>
-      <li>🎓 May 2026: I completed my spring exchange at <strong class="nowrap"><a href="https://illinois.edu/">UIUC</a></strong>. I am grateful to <strong class="nowrap">Prof.&nbsp;Hyanghee&nbsp;Park</strong> and <strong class="nowrap">Prof.&nbsp;Tal&nbsp;August</strong>; their HCI courses helped me discover how captivating HCI research can be.</li>
+      <li>🎓 May 2026: I completed my spring exchange at <strong class="nowrap"><a href="https://illinois.edu/">UIUC</a></strong>. The HCI courses taught by <strong class="nowrap">Prof.&nbsp;Hyanghee&nbsp;Park</strong> and <strong class="nowrap">Prof.&nbsp;Tal&nbsp;August</strong> drew me into HCI research.</li>
     </ul>
   </div>
 </div>
@@ -96,32 +92,33 @@ My research focuses on <span class="project-name">Human-Agent Interaction</span>
 
 <h2 id="beyond-research">Beyond Research</h2>
 
-✈️ Outside research, I enjoy travelling, board games, singing, and movies. I have
-visited the United States, Canada, Singapore, Malaysia, and Thailand.
+✈️ Outside research, I like to travel and play board games. I also sing and watch
+movies. I've visited the United States and Canada. In Southeast Asia, I've been
+to Singapore and Malaysia. I've also spent time in Thailand.
 
 🌶️ I am from Chengdu, and I love spicy food. Fellow spicy-food lovers are always
 welcome to reach out.
 
-📮 I am also a RedNote creator, sharing pieces of life, romance, reflection, and
-projects I build, with 38k+ likes and favorites.
+📮 On RedNote, I share pieces of my life and write about romance. I also post
+reflections and projects I build. My posts have received 38k+ likes and
+favorites.
 
 ## I Am Looking For
 
-I am always looking for ambitious professors, advisors, and collaborators who
-enjoy building thoughtful AI systems with a human-centered spirit. I am also
-happy to talk with people from the humanities, psychology, economics, and other
-fields who are interested in Human-Agent Interaction. Please feel free to reach out if
-our interests overlap.
+I would like to meet PhD advisors and collaborators who study how people use AI
+agents. I also welcome conversations outside computer science. If you work in
+the humanities, I'd be glad to hear from you. I'm interested in questions from
+psychology and economics as well. Please reach out if our interests overlap.
 
 <h2 id="other-ideas">Other Ideas</h2>
 
-I also enjoy exploring small humanities-oriented ideas and creative tools.
+I also make things outside my main research.
 
-- <span class="project-name">Dream of the Red Chamber Emotional Landscape</span> - A digital humanities project for reading <em>Dream of the Red Chamber</em> through space, characters, and emotional heat across 120 chapters, selected as an excellent work for <a href="https://www.zhihu.com/">Zhihu</a>'s <em>Seeing Humanity Anew with AI</em> event.
+- <span class="project-name">Dream of the Red Chamber Emotional Landscape</span> - A digital humanities reading of <em>Dream of the Red Chamber</em>. It maps characters across the novel's spaces and shows emotional intensity across all 120 chapters. <a href="https://www.zhihu.com/">Zhihu</a> selected it as an excellent work for its <em>Seeing Humanity Anew with AI</em> event.
 - <span class="project-name"><a href="https://xhslink.cn/o/8ZPbU0fkkqT">Stray Cats Simulator</a></span> - A RedNote stray-cat life simulator with 700k+ users; ranked #3 among the platform's mini-games.
-- <span class="project-name">Movie Companion.skill</span> - A spoiler-free Codex movie companion that stays with the current moment instead of revealing what comes next, and one of the earliest REDskills on <a href="https://www.xiaohongshu.com/">RedNote</a>.
+- <span class="project-name">Movie Companion.skill</span> - A spoiler-free Codex companion for watching films. It responds to where you are in the movie without revealing what comes next. It was among the earliest REDskills on <a href="https://www.xiaohongshu.com/">RedNote</a>.
 
-These ideas are not directly tied to my main research agenda, but I enjoy exploring them. Please feel free to reach out if any resonate with you.
+These ideas sit outside my main research, but I'd be glad to hear from anyone interested in them.
 
 <div class="visitor-counter" aria-label="Homepage visitor counter">
   <span>Views</span>
