@@ -28,21 +28,19 @@ redirect_from:
 
 My research focuses on <span class="project-name">Human-Agent Interaction</span>, especially:
 
-### Understanding and Improving LLM-Agent Behavior in Human-Centered Settings
+### Understanding and Improving LLM-Agent Behavior in Human-Centered Settings: <span class="research-heading-definition">Making agent behavior visible, diagnosable, and revisable so people can understand and shape AI decisions.</span>
 
 <ul class="research-questions">
   <li>
     <strong>Inspect and diagnose meaningful behavioral differences</strong>
     <div class="research-project">
       <p><span class="project-name">TraceFork</span> [EMNLP 2026 Demo] - A system for researchers to compare and inspect GUI-agent trajectories.</p>
-      <img src="{{ base_path }}/images/tracefork-overview.png" alt="TraceFork interface showing a comparison of GUI-agent trajectories" loading="lazy" decoding="async">
     </div>
   </li>
   <li>
     <strong>Make agent models inspectable and correctable</strong>
     <div class="research-project">
       <p><span class="project-name">RewindAI</span> [UIST 2026 Poster] - Inspectable and revisable autobiographical clones that help people reflect on past decisions and paths not taken.</p>
-      <img src="{{ base_path }}/images/rewindai-system.png" alt="RewindAI system diagram showing its agent network and reflection loop" loading="lazy" decoding="async">
     </div>
   </li>
 </ul>
@@ -51,7 +49,7 @@ My research focuses on <span class="project-name">Human-Agent Interaction</span>
 
 - <span class="project-name">Dream Factory</span> - An interactive learning system where users role-play characters from textbook materials with LLM agents to understand their stories and historical contexts.
 
-### Embodied Human-Agent Interaction
+### Embodied Human-Agent Interaction: <span class="research-heading-definition">Grounding agent behavior in human intent, physical action, and sensed context.</span>
 
 - <span class="project-name">SNS-Grasp</span> - A semantic-guided grasp generation framework that injects object-level intent into the denoising process, helping robots generate grasps that better match how humans intend to use objects.
 - <span class="project-name">Flexible Smart Glasses</span> - A reconfigurable smart-glasses platform that empowers users to actively configure wearable sensors for context-aware AI interaction, supporting more personalized robot control, physiological awareness, and embodied self-agency.

@@ -193,6 +193,10 @@
     font-size: 1.06rem;
   }
 
+  .research-heading-definition {
+    font-weight: 400;
+  }
+
   .page__content .research-questions {
     margin-top: 0.35rem;
   }
@@ -203,10 +207,6 @@
   }
 
   .research-project {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) minmax(200px, 35%);
-    gap: 0.8rem;
-    align-items: start;
     margin: 0.3rem 0 0.2rem;
   }
 
@@ -214,15 +214,6 @@
     margin: 0;
   }
 
-  .research-project img {
-    display: block;
-    width: 100%;
-    height: auto;
-    max-height: 220px;
-    object-fit: contain;
-    border: 1px solid rgba(44, 68, 76, 0.14);
-    border-radius: 6px;
-  }
 
   .home-news-column {
     margin: 1rem 0 1.05rem;
@@ -457,15 +448,6 @@
     }
   }
 
-  @media screen and (max-width: 600px) {
-    .research-project {
-      grid-template-columns: 1fr;
-    }
-
-    .research-project img {
-      max-width: 320px;
-    }
-  }
 
   #theme-toggle {
     display: none;
