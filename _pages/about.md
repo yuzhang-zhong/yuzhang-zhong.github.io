@@ -27,12 +27,12 @@ redirect_from:
 
 ## Research Interests
 
-My research is in <span class="project-name">Human-Agent Interaction</span>, with a focus on understanding agent behavior and learning with agents.
+My research focuses on <span class="project-name">Human-Agent Interaction</span>. I study how agents choose their next steps during a task and whether differences between runs show where people should step in. I also study how an agent represents a person's decisions and how that person can correct the model.
 
 ### Understanding Agent Behavior
 
-- <span class="project-name">TraceFork</span> [EMNLP 2026 Demo] aligns GUI-agent trajectories from different runs of the same task. It uses each action and its page context to match steps even when the agents navigate differently. Researchers can examine where the paths diverge and whether they later rejoin.
-- <span class="project-name">RewindAI</span> [UIST 2026 Poster] uses an autobiographical AI clone to revisit past social decisions. Users can inspect the experiences and relationships behind the clone's responses, then revise parts that feel wrong. They can also simulate a path they did not take to reflect on that choice.
+- <span class="project-name">TraceFork</span> [EMNLP 2026 Demo] aligns GUI-agent trajectories from different runs of the same task. It uses each action and its page context to match steps even when the agents navigate differently. Researchers can examine where the paths diverge and whether they later rejoin. They can then judge whether a divergence looks like a mistake or another way to reach the goal.
+- <span class="project-name">RewindAI</span> [UIST 2026 Poster] uses an autobiographical AI clone to model how a person makes social decisions. Users can inspect the experiences and relationships behind the clone's responses, then revise parts that feel wrong. They can also simulate a path they did not take to reflect on that choice.
 
 ### Learning with AI Agents
 
