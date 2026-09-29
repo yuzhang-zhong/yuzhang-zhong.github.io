@@ -12,6 +12,7 @@ redirect_from:
 <nav class="home-right-nav" aria-label="Homepage sections">
   <a href="#about">About</a>
   <a href="#research">Research</a>
+  <a href="#projects">Projects</a>
   <a href="#news">News</a>
   <a href="#beyond-research">Lifestyle</a>
   <a href="#other-ideas">Ideas</a>
@@ -26,52 +27,33 @@ redirect_from:
 
 ## Research Interests
 
-<p class="research-intro">My research focuses on <span class="project-name">Human-Agent Interaction</span> through two complementary directions.</p>
+My research focuses on <span class="project-name">Human-Agent Interaction</span>, especially:
 
-<div class="research-theme">
-  <header class="research-theme__heading">
-    <span class="research-theme__index" aria-hidden="true">01</span>
-    <div>
-      <h3>Understanding and Improving LLM-Agent Behavior in Human-Centered Settings:</h3>
-      <p class="research-theme__definition">Making agent behavior visible, diagnosable, and revisable so people can understand and shape AI decisions.</p>
-    </div>
-  </header>
-  <div class="research-theme__projects">
-    <div class="research-theme__project">
-      <h4>Inspect and diagnose meaningful behavioral differences</h4>
-      <p><span class="project-name">TraceFork</span> <span class="research-tag">[EMNLP 2026 Demo]</span> - Compares GUI-agent trajectories to diagnose where their behavior diverges.</p>
-    </div>
-    <div class="research-theme__project">
-      <h4>Make agent models inspectable and correctable</h4>
-      <p><span class="project-name">RewindAI</span> <span class="research-tag">[UIST 2026 Poster]</span> - Inspectable and revisable autobiographical clones for reflecting on past social decisions and paths not taken.</p>
-    </div>
-  </div>
-</div>
+### Understanding and Improving LLM-Agent Behavior in Human-Centered Settings:
 
-<div class="research-theme">
-  <header class="research-theme__heading">
-    <span class="research-theme__index" aria-hidden="true">02</span>
-    <div>
-      <h3>Embodied Human-Agent Interaction:</h3>
-      <p class="research-theme__definition">Grounding agent behavior in human intent, physical action, and sensed context.</p>
-    </div>
-  </header>
-  <div class="research-theme__projects">
-    <div class="research-theme__project">
-      <h4><span class="project-name">SNS-Grasp</span></h4>
-      <p>Guides robotic grasp generation with object-level intent, producing grasps that match how people plan to use an object.</p>
-    </div>
-    <div class="research-theme__project">
-      <h4><span class="project-name">Flexible Smart Glasses</span></h4>
-      <p>User-configurable smart glasses for context-aware AI interaction, personalized robot control, physiological awareness, and embodied self-agency.</p>
-    </div>
-  </div>
-</div>
+<p class="research-definition">Making agent behavior visible, diagnosable, and revisable so people can understand and shape AI decisions.</p>
 
-<div class="research-aside">
-  <span class="research-aside__label">Learning with AI Agents</span>
-  <p><span class="project-name">Dream Factory</span> - Role-play with LLM agents from textbook stories to explore characters and historical contexts.</p>
-</div>
+- <span class="project-name">TraceFork</span> [EMNLP 2026 Demo] - Compares GUI-agent trajectories to diagnose where their behavior diverges.
+- <span class="project-name">RewindAI</span> [UIST 2026 Poster] - Inspectable and revisable autobiographical clones for reflecting on past social decisions and paths not taken.
+
+### Learning with AI Agents:
+
+<p class="research-definition">Designing agent-supported experiences that help people learn through role-play and exploration.</p>
+
+- <span class="project-name">Dream Factory</span> - Role-play with LLM agents from textbook stories to explore characters and historical contexts.
+
+</section>
+
+<h2 id="projects">Other Projects</h2>
+
+<section class="project-directions" markdown="1">
+
+### Embodied Human-Agent Interaction
+
+<p class="research-definition">Exploratory work on human intent, physical action, and sensed context.</p>
+
+- <span class="project-name">SNS-Grasp</span> - Guides robotic grasp generation with object-level intent, producing grasps that match how people plan to use an object.
+- <span class="project-name">Flexible Smart Glasses</span> - User-configurable smart glasses for context-aware AI interaction, personalized robot control, physiological awareness, and embodied self-agency.
 
 </section>
 
