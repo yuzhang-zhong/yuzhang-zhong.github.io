@@ -31,24 +31,32 @@ My research focuses on <span class="project-name">Human-Agent Interaction</span>
 
 ### Understanding and Improving LLM-Agent Behavior in Human-Centered Settings
 
-- **Inspect and diagnose meaningful behavioral differences**
-  - <span class="project-name">TraceFork</span> [EMNLP 2026 Demo] - A system for researchers to compare and inspect GUI-agent trajectories.
-- **Make agent models inspectable and correctable**
-  - <span class="project-name">RewindAI</span> [UIST 2026 Poster] - Inspectable and revisable autobiographical clones that help people reflect on past decisions and paths not taken.
+<ul class="research-questions">
+  <li>
+    <strong>Inspect and diagnose meaningful behavioral differences</strong>
+    <div class="research-project">
+      <p><span class="project-name">TraceFork</span> [EMNLP 2026 Demo] - A system for researchers to compare and inspect GUI-agent trajectories.</p>
+      <img src="{{ base_path }}/images/tracefork-overview.png" alt="TraceFork interface showing a comparison of GUI-agent trajectories" loading="lazy" decoding="async">
+    </div>
+  </li>
+  <li>
+    <strong>Make agent models inspectable and correctable</strong>
+    <div class="research-project">
+      <p><span class="project-name">RewindAI</span> [UIST 2026 Poster] - Inspectable and revisable autobiographical clones that help people reflect on past decisions and paths not taken.</p>
+      <img src="{{ base_path }}/images/rewindai-system.png" alt="RewindAI system diagram showing its agent network and reflection loop" loading="lazy" decoding="async">
+    </div>
+  </li>
+</ul>
+
+### Learning with AI Agents
+
+- <span class="project-name">Dream Factory</span> - An interactive learning system where users role-play characters from textbook materials with LLM agents to understand their stories and historical contexts.
 
 </section>
 
-<p class="imagination-note">💬 I am fascinated by AI as a medium for imagination: not only as a tool for automation, but also as a space that can naturally inspire people to think beyond habitual frames.</p>
-
-<span id="projects" class="section-anchor"></span>
-## Other Selected Projects
+<h2 id="projects">Other Selected Projects</h2>
 
 <section class="project-directions" markdown="1">
-
-### Creativity and learning
-
-- <span class="project-name">AI-Generated Entities in Collaborative Writing</span> - A theory-driven NLP and linguistics study of how AI-introduced entities influence meaning-making and the creative process in human-AI collaborative writing.
-- <span class="project-name">Dream Factory</span> - An interactive learning system where users role-play characters from textbook materials with LLM agents to better understand the characters, stories, and historical contexts.
 
 ### Embodied interaction
 
