@@ -27,16 +27,16 @@ redirect_from:
 
 ## Research Interests
 
-I study <span class="project-name">Human-Agent Interaction</span>. I want to understand what agents do during a task and what people can learn by working with them.
+My research is in <span class="project-name">Human-Agent Interaction</span>, with a focus on understanding agent behavior and learning with agents.
 
 ### Understanding Agent Behavior
 
-- <span class="project-name">TraceFork</span> [EMNLP 2026 Demo] - A final success or failure tells us little about what happened along the way. TraceFork lines up two GUI-agent runs of the same task so researchers can see where their paths split and whether they come back together.
-- <span class="project-name">RewindAI</span> [UIST 2026 Poster] - A generic AI clone knows little about why someone made a difficult social choice. In RewindAI, people can inspect a clone built from their own experiences and correct what feels wrong. They can then revisit a choice through a path they did not take, without treating the simulation as a forecast.
+- <span class="project-name">TraceFork</span> [EMNLP 2026 Demo] aligns GUI-agent trajectories from different runs of the same task. Researchers can compare the aligned steps to find where the agents' paths split. The system also shows whether those paths later rejoin.
+- <span class="project-name">RewindAI</span> [UIST 2026 Poster] lets users revisit a past social decision through an autobiographical AI clone. They can inspect and correct the clone before simulating a path they did not take.
 
 ### Learning with AI Agents
 
-- <span class="project-name">Dream Factory</span> - Learners enter textbook stories as characters and talk with LLM agents playing the other roles. The conversations are designed to help them understand why a character acted as they did and what was happening around them.
+- <span class="project-name">Dream Factory</span> turns textbook stories into role-play with LLM agents. Learners play one character and talk with agents playing the others to understand the characters' choices in historical context.
 
 </section>
 
