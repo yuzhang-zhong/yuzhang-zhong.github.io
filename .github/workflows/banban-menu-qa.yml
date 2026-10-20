@@ -1,0 +1,42 @@
+name: Validate compact Banban menu
+on:
+  push:
+    branches: [validate/banban-compact-menu]
+permissions:
+  contents: read
+jobs:
+  browser-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 3
+          persist-credentials: false
+      - name: Build the actual Jekyll site without deploying
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install the browser test runner
+        run: |
+          mkdir -p /tmp/banban-qa
+          npm install --prefix /tmp/banban-qa --no-save playwright@1.56.1
+          /tmp/banban-qa/node_modules/.bin/playwright install --with-deps chromium
+      - name: Run real browser checks
+        env:
+          NODE_PATH: /tmp/banban-qa/node_modules
+        run: |
+          python3 -m http.server 8765 --bind 127.0.0.1 --directory _site > /tmp/banban-server.log 2>&1 &
+          for i in $(seq 1 30); do curl -fsS http://127.0.0.1:8765/ > /dev/null && break; sleep 1; done
+          node .github/qa/banban-menu.cjs
+      - name: Save screenshots and measurements
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: banban-menu-browser-evidence
+          path: banban-qa-results/
+          retention-days: 7
