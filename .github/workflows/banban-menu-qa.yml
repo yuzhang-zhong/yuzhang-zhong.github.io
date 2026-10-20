@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 3
+          fetch-depth: 0
           persist-credentials: false
       - name: Build the actual Jekyll site without deploying
         uses: actions/jekyll-build-pages@v1
