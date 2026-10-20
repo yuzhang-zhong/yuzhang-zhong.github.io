@@ -1,0 +1,20 @@
+<!-- Original Banban pixel art, served locally. No network service or tracking. -->
+<div id="banban-pet" class="banban-pet" hidden
+     data-sprite-url="{{ base_path }}/images/banban/banban-sprites.png">
+  <span class="banban-pet__heart" aria-hidden="true">♡</span>
+  <button class="banban-pet__cat" type="button"
+          aria-label="Pet Banban (斑斑). Drag to move."
+          aria-describedby="banban-help">
+    <span class="banban-pet__sprite" aria-hidden="true"></span>
+  </button>
+  <button class="banban-pet__settings" type="button" aria-label="Banban options"
+          aria-expanded="false" aria-controls="banban-options">⋯</button>
+  <div id="banban-options" class="banban-pet__options" hidden>
+    <span class="banban-pet__name">Banban · 斑斑</span>
+    <button class="banban-pet__pause" type="button">Pause walking</button>
+    <button class="banban-pet__hide" type="button">Hide Banban</button>
+  </div>
+  <span id="banban-help" class="banban-pet__sr-only">A tiny pixel companion. Drag or use the arrow keys to move it. Use Banban options to pause or hide it. You can bring it back using the footer control.</span>
+  <span class="banban-pet__status banban-pet__sr-only" role="status"></span>
+</div>
+<script defer src="{{ base_path }}/assets/js/banban-pet.js"></script>

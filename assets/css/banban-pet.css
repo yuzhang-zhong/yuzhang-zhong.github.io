@@ -1,0 +1,190 @@
+/* A small, optional companion. All styles are scoped to Banban. */
+.banban-pet {
+  --banban-size: 40px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 44px;
+  height: 44px;
+  z-index: 30;
+  pointer-events: none;
+  contain: layout style;
+}
+.banban-pet[hidden],
+.banban-pet [hidden] {
+  display: none !important;
+}
+.banban-pet button {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: var(--anthropic-sans, system-ui, sans-serif);
+  cursor: pointer;
+  pointer-events: auto;
+}
+.banban-pet__cat {
+  display: grid;
+  place-items: end center;
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  border: 0;
+  border-radius: 8px;
+  background: transparent;
+  touch-action: none;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.banban-pet__sprite {
+  display: block;
+  width: var(--banban-size);
+  height: var(--banban-size);
+  background-repeat: no-repeat;
+  image-rendering: pixelated;
+  pointer-events: none;
+  transform: scaleX(var(--banban-facing, 1));
+  transform-origin: 50% 100%;
+  filter: drop-shadow(0 1px 1px rgb(0 0 0 / 10%));
+}
+.banban-pet__cat:focus-visible,
+.banban-pet__settings:focus-visible,
+.banban-pet__options button:focus-visible,
+.banban-toggle:focus-visible {
+  outline: 2px solid #2f8b99;
+  outline-offset: 3px;
+}
+.banban-pet__settings {
+  position: absolute;
+  right: -14px;
+  top: -10px;
+  width: 26px;
+  height: 26px;
+  padding: 0;
+  border: 1px solid var(--global-border-color, #d4d8d8);
+  border-radius: 50%;
+  background: var(--global-bg-color, #fff);
+  color: var(--global-text-color, #263b42);
+  font-size: 19px;
+  line-height: 20px;
+  opacity: 0;
+  transition: opacity 120ms;
+}
+.banban-pet:hover .banban-pet__settings,
+.banban-pet:focus-within .banban-pet__settings,
+.banban-pet[data-menu-open] .banban-pet__settings {
+  opacity: 1;
+}
+.banban-pet__options {
+  position: absolute;
+  right: 0;
+  bottom: 55px;
+  min-width: 156px;
+  max-width: calc(100vw - 24px);
+  padding: 8px;
+  border: 1px solid var(--global-border-color, #d4d8d8);
+  border-radius: 10px;
+  background: var(--global-bg-color, #fff);
+  color: var(--global-text-color, #263b42);
+  box-shadow: 0 4px 20px rgb(0 0 0 / 12%);
+  pointer-events: auto;
+}
+.banban-pet[data-menu-left] .banban-pet__options {
+  right: auto;
+  left: 0;
+}
+.banban-pet[data-menu-below] .banban-pet__options {
+  top: 55px;
+  bottom: auto;
+}
+.banban-pet__name {
+  display: block;
+  padding: 4px 8px 6px;
+  font: 600 12px/1.4 var(--anthropic-sans, system-ui, sans-serif);
+}
+.banban-pet__options button {
+  display: block;
+  width: 100%;
+  min-height: 36px;
+  padding: 6px 8px;
+  border: 0;
+  border-radius: 5px;
+  text-align: left;
+  background: transparent;
+  color: inherit;
+  font-size: 13px;
+  line-height: 1.4;
+}
+.banban-pet__options button:hover {
+  background: rgb(47 103 112 / 12%);
+}
+.banban-pet__heart {
+  position: absolute;
+  top: -20px;
+  left: 12px;
+  color: #d57570;
+  font: 23px/1 system-ui, sans-serif;
+  opacity: 0;
+  pointer-events: none;
+}
+.banban-pet[data-happy] .banban-pet__heart {
+  opacity: 1;
+  animation: banban-heart 1s ease-out both;
+}
+.banban-pet[data-happy] .banban-pet__sprite {
+  animation: banban-nuzzle 360ms ease-in-out;
+}
+.banban-pet[data-dragging] .banban-pet__cat {
+  cursor: grabbing;
+}
+.banban-toggle {
+  display: block;
+  margin: 0.75em 0 0;
+  padding: 0.3em 0;
+  border: 0;
+  background: transparent;
+  color: inherit;
+  font: inherit;
+  font-size: 0.85em;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  cursor: pointer;
+}
+.banban-pet__sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+@keyframes banban-heart {
+  from { opacity: 0.9; transform: translateY(2px); }
+  to { opacity: 0; transform: translateY(-14px); }
+}
+@keyframes banban-nuzzle {
+  50% { transform: scaleX(var(--banban-facing, 1)) translateY(-5px); }
+}
+@media (max-width: 600px), (pointer: coarse) {
+  .banban-pet { --banban-size: 36px; }
+  .banban-pet__settings {
+    right: -8px;
+    top: -16px;
+    width: 30px;
+    height: 30px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .banban-pet *,
+  .banban-pet *::before,
+  .banban-pet *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+@media print {
+  .banban-pet,
+  .banban-toggle { display: none !important; }
+}
