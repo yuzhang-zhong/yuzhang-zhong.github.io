@@ -17,6 +17,7 @@
     {% if post.excerpt %}
       <p class="project-paper-card__excerpt">{{ post.excerpt }}</p>
     {% endif %}
+    {% if post.articleurl or post.paperurl %}
     <div class="project-paper-card__actions">
       {% if post.articleurl %}
         <a href="{{ post.articleurl }}">AAAI</a>
@@ -25,5 +26,6 @@
         <a href="{{ post.paperurl }}">PDF</a>
       {% endif %}
     </div>
+    {% endif %}
   </div>
 </div>
