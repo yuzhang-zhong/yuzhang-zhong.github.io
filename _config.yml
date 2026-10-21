@@ -12,7 +12,7 @@ site_theme               : "air" # The available themes options are "default", "
 title                    : "Yuzhang Zhong"
 title_separator          : "-"
 name                     : &name "Yuzhang Zhong"
-description              : &description "Yuzhang Zhong is a visiting predoctoral fellow at Northwestern University and a Computer Science undergraduate at the University of Macau. His research focuses on Human-Agent Interaction, exploring how AI agents can support human agency and better understand human intentions and contexts."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Yuzhang Zhong is a fourth-year Computer Science student at the University of Macau. His research focuses on Human-Agent Interaction and how people can understand and correct agent behavior."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://yuzhang-zhong.github.io"
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,8 +26,8 @@ author:
   avatar           : "yuzhang-profile.jpg"
   name             : "Yuzhang Zhong"
   pronouns         : # example: "she/her"  
-  bio              : "Visiting predoctoral fellow at Northwestern University.<br>Interested in Human-Agent Interaction!"
-  location         : "Evanston / Macau"
+  bio              : "Fourth-year CS student.<br>Human-Agent Interaction."
+  location         : "Macau"
   employer         : "University of Macau"
   uri              : # URL
   email            : "dc32853@um.edu.mo"

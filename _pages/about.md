@@ -2,32 +2,35 @@
 permalink: /
 title: 'Yuzhang Zhong <span class="name-chinese">钟宇璋</span> <span class="name-pronunciation">/juːˈʒɑːŋ dʒʊŋ/</span>'
 browser_title: "Yuzhang Zhong's Homepage ;)"
-description: "Yuzhang Zhong is a visiting predoctoral fellow at Northwestern University and a Computer Science undergraduate at the University of Macau. His research focuses on Human-Agent Interaction, exploring how AI agents can support human agency and better understand human intentions and contexts."
+description: "Yuzhang Zhong is a fourth-year Computer Science student at the University of Macau. His research focuses on Human-Agent Interaction and how people can understand and correct agent behavior."
+classes: homepage
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
+<section id="about" class="homepage-welcome" markdown="1">
+<p class="welcome-kicker"><strong>🎆 Welcome to my homepage.</strong></p>
+<p class="welcome-lead">I am a <strong>fourth-year Computer Science student</strong> at the <a href="https://www.um.edu.mo/">University of Macau</a> (Honours College), graduating in 2027. My undergraduate advisors are Dr. <a href="https://www.fst.um.edu.mo/personal/mcosta/">Miguel Gomes da Costa Junior</a> and Prof. <a href="https://psyc.fss.um.edu.mo/people/">Christian Montag</a>.</p>
+<p>My research focuses on <strong>Human-Agent Interaction</strong>. I study how agents choose their next steps during a task and whether differences between runs show where people should step in. I also study how an agent represents a person's decisions and how that person can correct the model.</p>
+<p>I have also worked with Prof. Stephen Xia at Northwestern University, Prof. Sherry Wu's WInE Lab at Carnegie Mellon University, and Prof. Li Li.</p>
+<p class="welcome-note">I spent Spring 2026 on exchange at <a href="https://illinois.edu/">UIUC</a>. I am grateful to Dr. <a href="https://risingstars-eecs.mit.edu/participants/hyanghee-park/">Hyanghee Park</a> and Prof. Tal August, whose courses introduced me to HCI research.</p>
+</section>
+
 <nav class="home-right-nav" aria-label="Homepage sections">
-  <a href="#about">About</a>
+  <a href="#news">News</a>
   <a href="#research">Research</a>
   <a href="#projects">Projects</a>
-  <a href="#news">News</a>
-  <a href="#beyond-research">Lifestyle</a>
+  <a href="#beyond-research">Beyond Research</a>
   <a href="#other-ideas">Ideas</a>
 </nav>
 
-<section id="about" class="homepage-welcome" markdown="1">
-<p class="welcome-kicker"><strong>🎆 Welcome to my homepage.</strong></p>
-<p class="welcome-lead">I am a visiting predoctoral fellow at <a href="https://www.northwestern.edu/">Northwestern University</a>, where I am advised by <strong>Prof.&nbsp;Stephen&nbsp;Xia</strong>. I study Computer Science at the <a href="https://www.um.edu.mo/">University of Macau</a> (Honours College), expect to graduate in 2027, and spent Spring 2026 as an exchange student at the <a href="https://illinois.edu/">University of Illinois Urbana-Champaign</a>. I also collaborate with <strong>Prof.&nbsp;Sherry&nbsp;Wu</strong>'s <strong>WInE Lab</strong> at <a href="https://www.cmu.edu/">Carnegie Mellon University</a>.</p>
-</section>
+{% include homepage-news.html %}
 
 <section id="research" class="research-interests" markdown="1">
 
 ## Research Interests
-
-My research focuses on <span class="project-name">Human-Agent Interaction</span>. I study how agents choose their next steps during a task and whether differences between runs show where people should step in. I also study how an agent represents a person's decisions and how that person can correct the model.
 
 ### Understanding Agent Behavior
 
@@ -50,43 +53,6 @@ My research focuses on <span class="project-name">Human-Agent Interaction</span>
 
 - <span class="project-name">SNS-Grasp</span> uses semantic information about an object to guide robotic grasp generation. It favors grasps that fit what the person plans to do with the object.
 - <span class="project-name">Flexible Smart Glasses</span> lets wearers decide which sensors the AI uses. The project explores how that choice affects robot control and awareness of bodily signals.
-
-</section>
-
-<section id="news" class="home-news-column" markdown="1">
-
-## News
-
-<div class="news-tabs" data-news-tabs>
-  <div class="news-tabs__list" role="tablist" aria-label="News categories">
-    <button class="news-tabs__tab" type="button" role="tab" id="news-tab-researcher" aria-controls="news-panel-researcher" aria-selected="true">As a Researcher</button>
-    <button class="news-tabs__tab" type="button" role="tab" id="news-tab-developer" aria-controls="news-panel-developer" aria-selected="false" tabindex="-1">As a Developer</button>
-    <button class="news-tabs__tab" type="button" role="tab" id="news-tab-student" aria-controls="news-panel-student" aria-selected="false" tabindex="-1">As a Student</button>
-  </div>
-
-  <div class="news-tabs__panel" id="news-panel-researcher" role="tabpanel" aria-labelledby="news-tab-researcher">
-    <ul>
-      <li>🎉 August 2026: Our work, <strong><em>TraceFork: A System for Inspecting GUI-Agent Trajectory Forks</em></strong>, was accepted to <strong>EMNLP 2026 System Demonstrations</strong>.</li>
-      <li>🎉 August 2026: Our work, <strong><a href="{{ base_path }}/portfolio/rewindai"><em>RewindAI: Inspectable and Revisable Autobiographical Clones for Reflective Social Decisions</em></a></strong>, was accepted to the <strong><a href="https://uist.acm.org/2026/cfp/#posters">UIST 2026 Poster Track</a></strong>.</li>
-      <li>📄 March 2026: Our paper <strong class="nowrap"><a href="{{ base_path }}/publication/2026-sns-grasp">SNS-Grasp</a></strong> was accepted to <strong class="nowrap"><a href="https://aaai.org/conference/aaai/aaai-26/">AAAI 2026</a></strong>.</li>
-    </ul>
-  </div>
-
-  <div class="news-tabs__panel" id="news-panel-developer" role="tabpanel" aria-labelledby="news-tab-developer" hidden>
-    <ul>
-      <li>🐈 September 2026: My <strong><a href="https://xhslink.cn/o/8ZPbU0fkkqT">Stray Cats Simulator</a></strong> has reached <strong>700k+ users</strong> on <strong>RedNote</strong>, after passing 200,000 in its first 10 days and ranking <strong>#3 among all mini-games</strong> on the platform.</li>
-      <li>🚀 August 2026: I will join <strong class="nowrap"><a href="https://www.popmart.com/">POP MART</a></strong> as an <strong class="nowrap">AI Empowerment Intern</strong>, CEO's Office.</li>
-      <li>🏆 July 2025: <strong class="nowrap">Dream Factory</strong> won the <strong>Regional 2nd Place Award</strong> at <a href="https://www.vivo.com/">Vivo</a>'s AI Innovation Competition.</li>
-    </ul>
-  </div>
-
-  <div class="news-tabs__panel" id="news-panel-student" role="tabpanel" aria-labelledby="news-tab-student" hidden>
-    <ul>
-      <li>🧠 July 2026: I will attend <strong class="nowrap"><a href="https://learnlab.org/learnlab-summer-school/">CMU LearnLab Summer School</a></strong> in <strong class="nowrap">Pittsburgh</strong>, and I hope to meet people with similar research interests.</li>
-      <li>🎓 May 2026: I completed my spring exchange at <strong class="nowrap"><a href="https://illinois.edu/">UIUC</a></strong>. I am grateful to <strong class="nowrap">Prof.&nbsp;Hyanghee&nbsp;Park</strong> and <strong class="nowrap">Prof.&nbsp;Tal&nbsp;August</strong>; their HCI courses helped me discover how captivating HCI research can be.</li>
-    </ul>
-  </div>
-</div>
 
 </section>
 
