@@ -81,7 +81,6 @@ I also enjoy exploring small humanities-oriented ideas and creative tools.
 
 - <span class="project-name">Dream of the Red Chamber Emotional Landscape</span> - A digital humanities project for reading <em>Dream of the Red Chamber</em> through space, characters, and emotional heat across 120 chapters, selected as an excellent work for <a href="https://www.zhihu.com/">Zhihu</a>'s <em>Seeing Humanity Anew with AI</em> event.
 - <span class="project-name"><a href="https://xhslink.cn/o/8ZPbU0fkkqT">Stray Cats Simulator</a></span> - A RedNote stray-cat life simulator with 700k+ users; ranked #3 among the platform's mini-games.
-- <span class="project-name">Movie Companion.skill</span> - A spoiler-free Codex movie companion that stays with the current moment instead of revealing what comes next, and one of the earliest REDskills on <a href="https://www.xiaohongshu.com/">RedNote</a>.
 
 These ideas are not directly tied to my main research agenda, but I enjoy exploring them. Please feel free to reach out if any resonate with you.
 
