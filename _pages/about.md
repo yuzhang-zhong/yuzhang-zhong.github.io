@@ -12,10 +12,10 @@ redirect_from:
 
 <section id="about" class="homepage-welcome" markdown="1">
 <p class="welcome-kicker"><strong>🎆 Welcome to my homepage.</strong></p>
-<p class="welcome-lead">I am a <strong>fourth-year Computer Science student</strong> at the <a href="https://www.um.edu.mo/">University of Macau</a> (Honours College), graduating in 2027. My undergraduate advisors are Dr. <a href="https://www.fst.um.edu.mo/personal/mcosta/">Miguel Gomes da Costa Junior</a> and Prof. <a href="https://psyc.fss.um.edu.mo/people/">Christian Montag</a>.</p>
+<p class="welcome-lead">I am a <strong>fourth-year Computer Science student</strong> at the <a href="https://www.um.edu.mo/">University of Macau</a> (Honours College), graduating in 2027. My undergraduate advisors are Dr. <a href="https://www.fst.um.edu.mo/personal/mcosta/">Miguel Gomes da Costa Junior</a> and Prof. <a href="https://christianmontag.de/about_me/">Christian Montag</a>.</p>
 <p>My research focuses on <strong>Human-Agent Interaction</strong>. I study how agents choose their next steps during a task and whether differences between runs show where people should step in. I also study how an agent represents a person's decisions and how that person can correct the model.</p>
-<p>I have also worked with Prof. Stephen Xia at Northwestern University, Prof. Sherry Wu's WInE Lab at Carnegie Mellon University, and Prof. Li Li.</p>
-<p class="welcome-note">I spent Spring 2026 on exchange at <a href="https://illinois.edu/">UIUC</a>. I am grateful to Dr. <a href="https://risingstars-eecs.mit.edu/participants/hyanghee-park/">Hyanghee Park</a> and Prof. Tal August, whose courses introduced me to HCI research.</p>
+<p>I have also worked with Prof. <a href="https://www.stephenxia.com/">Stephen Xia</a> at Northwestern University, Prof. <a href="https://www.cs.cmu.edu/~sherryw/">Sherry Wu</a>'s WInE Lab at Carnegie Mellon University, and Prof. <a href="https://www.fst.um.edu.mo/personal/llili/">Li Li</a> at the University of Macau.</p>
+<p class="welcome-note">I spent Spring 2026 on exchange at <a href="https://illinois.edu/">UIUC</a>. I am grateful to Dr. <a href="https://risingstars-eecs.mit.edu/participants/hyanghee-park/">Hyanghee Park</a> and Prof. <a href="https://talaugust.github.io/">Tal August</a>, whose courses introduced me to HCI research.</p>
 </section>
 
 <nav class="home-right-nav" aria-label="Homepage sections">
