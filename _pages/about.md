@@ -58,14 +58,14 @@ redirect_from:
 
 <h2 id="beyond-research">Beyond Research</h2>
 
+📮 I am also a **[RedNote creator]({{ site.author.xiaohongshu }})**, sharing pieces of life, romance, reflection, and
+projects I build, with 43k+ likes and favorites.
+
 ✈️ Outside research, I enjoy travelling, board games, singing, and movies. I have
 visited the United States, Canada, Singapore, Malaysia, and Thailand.
 
 🌶️ I am from Chengdu, and I love spicy food. Fellow spicy-food lovers are always
 welcome to reach out.
-
-📮 I am also a RedNote creator, sharing pieces of life, romance, reflection, and
-projects I build, with 42k+ likes and favorites.
 
 ## I Am Looking For
 
