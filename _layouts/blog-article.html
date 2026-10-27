@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <article class="page blog-article {{ page.classes }}" lang="{{ page.lang | default: 'en' | escape }}" itemscope itemtype="https://schema.org/BlogPosting">
+    <div class="page__inner-wrap">
+      <header class="blog-article__header">
+        <div class="blog-article__toolbar">
+          <nav class="blog-breadcrumbs" aria-label="{% if page.lang == 'zh-Hans' %}文章导航{% else %}Article navigation{% endif %}">
+            <a href="{{ '/blog/' | relative_url }}">← Blog</a>
+            {% if page.series_url and page.series_url != page.url %}
+              <a href="{{ page.series_url | relative_url }}">{% if page.lang == 'zh-Hans' %}专题目录{% else %}Series contents{% endif %}</a>
+            {% endif %}
+          </nav>
+
+          {% if page.chinese_url and page.english_url %}
+            <nav class="blog-language" aria-label="{% if page.lang == 'zh-Hans' %}阅读语言{% else %}Article language{% endif %}">
+              <a href="{{ page.chinese_url | relative_url }}" lang="zh-Hans" hreflang="zh-Hans"{% if page.lang == 'zh-Hans' %} aria-current="page"{% endif %}>中文</a>
+              <a href="{{ page.english_url | relative_url }}" lang="en" hreflang="en"{% if page.lang == 'en' %} aria-current="page"{% endif %}>English</a>
+            </nav>
+          {% endif %}
+        </div>
+
+        <h1 class="page__title" itemprop="headline">{{ page.title | escape }}</h1>
+        {% if page.date %}
+          <p class="blog-article__date"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: '%Y-%m-%d' }}</time></p>
+        {% endif %}
+      </header>
+
+      <section class="page__content blog-article__content" itemprop="articleBody">
+        {{ content }}
+      </section>
+
+      {% if page.source_url %}
+        <footer class="blog-article__source">
+          <p>
+            {% if page.lang == 'zh-Hans' %}
+              <a href="{{ page.source_url | escape }}">中文原文（Notion）</a>
+            {% else %}
+              <a href="{{ page.source_url | escape }}">Chinese original on Notion</a>
+            {% endif %}
+          </p>
+        </footer>
+      {% endif %}
+    </div>
+  </article>
+</div>

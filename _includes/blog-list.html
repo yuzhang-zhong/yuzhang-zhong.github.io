@@ -1,0 +1,9 @@
+<ul class="blog-list">
+  {% for post in site.data.blog.posts %}
+  <li>
+    <h{{ include.heading_level | default: 3 }} class="blog-entry-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h{{ include.heading_level | default: 3 }}>
+    <p lang="zh-Hans">{{ post.title_zh }}</p>
+    <p class="blog-entry-meta"><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%d %b %Y' }}</time> · 中文原文 / English translation · {{ post.topics }} topics</p>
+  </li>
+  {% endfor %}
+</ul>

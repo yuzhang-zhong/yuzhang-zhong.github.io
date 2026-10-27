@@ -22,6 +22,7 @@ redirect_from:
   <a href="#news">News</a>
   <a href="#research">Research</a>
   <a href="#projects">Projects</a>
+  <a href="#blog">Blog</a>
   <a href="#beyond-research">Beyond Research</a>
   <a href="#other-ideas">Ideas</a>
 </nav>
@@ -56,6 +57,16 @@ redirect_from:
 
 </section>
 
+<section id="blog" class="home-blog" markdown="1">
+
+## Blog
+
+{{ site.data.blog.intro }}
+
+{% include blog-list.html %}
+
+</section>
+
 <h2 id="beyond-research">Beyond Research</h2>
 
 📮 I am also a **[RedNote creator]({{ site.author.xiaohongshu }})**, sharing pieces of life, romance, reflection, and
@@ -83,10 +94,3 @@ I also enjoy exploring small humanities-oriented ideas and creative tools.
 - <span class="project-name"><a href="https://xhslink.cn/o/8ZPbU0fkkqT">Stray Cats Simulator</a></span> - A RedNote stray-cat life simulator with 700k+ users; ranked #3 among the platform's mini-games.
 
 These ideas are not directly tied to my main research agenda, but I enjoy exploring them. Please feel free to reach out if any resonate with you.
-
-<div class="visitor-counter" aria-label="Homepage visitor counter">
-  <span>Views</span>
-  <strong id="busuanzi_value_site_pv">--</strong>
-</div>
-
-<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>

@@ -1,0 +1,7 @@
+intro: "I am studying how agent harnesses differ across domains and which mechanisms might transfer between them. These posts collect my reading notes."
+posts:
+  - title: "Harness across domains"
+    title_zh: "不同领域Harness的过程差异"
+    url: /blog/harness/
+    date: 2026-10-27
+    topics: 5
