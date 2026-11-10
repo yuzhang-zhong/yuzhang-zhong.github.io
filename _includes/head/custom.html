@@ -119,6 +119,27 @@
     font-weight: 600;
   }
 
+  /* Keep profile details readable without creating a horizontal scroll area. */
+  @media screen and (min-width: 925px) {
+    .sidebar {
+      overflow-x: hidden;
+    }
+
+    .sidebar .author__urls li {
+      white-space: normal;
+      overflow-wrap: anywhere;
+    }
+
+    /* Reclaim the theme's unused right-hand column on the homepage. */
+    .page.homepage {
+      padding-right: 5.5%;
+    }
+
+    .homepage .page__inner-wrap {
+      max-width: 800px;
+    }
+  }
+
   .homepage .page__content {
     font-size: 16px;
     line-height: 1.6;
