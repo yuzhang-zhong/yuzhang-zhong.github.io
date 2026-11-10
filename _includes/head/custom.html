@@ -121,8 +121,18 @@
 
   /* Keep profile details readable without creating a horizontal scroll area. */
   @media screen and (min-width: 925px) {
+    /* Keep the profile column stable across desktop breakpoints. */
     .sidebar {
+      width: 200px;
+      margin-right: 32px;
       overflow-x: hidden;
+    }
+
+    /* Reserve the same column and gap so the content cannot overlap it. */
+    .sidebar + .page,
+    .sidebar + .archive {
+      width: calc(100% - 232px);
+      padding-left: 0;
     }
 
     .sidebar .author__urls li {
