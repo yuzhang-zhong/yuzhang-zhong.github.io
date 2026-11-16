@@ -4,7 +4,6 @@
 
 **Research, projects, publications, and writing in one place.**
 
-[![Website](https://img.shields.io/badge/Website-yuzhang--zhong.github.io-2563eb)](https://yuzhang-zhong.github.io/)
 [![Jekyll](https://img.shields.io/badge/Built_with-Jekyll-cc0000)](https://jekyllrb.com/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
@@ -66,9 +65,9 @@ bundle exec jekyll serve -H 127.0.0.1 -P 4000
 | Layouts and reusable components | [`_layouts/`](_layouts/) and [`_includes/`](_includes/) |
 | Portraits, project figures, and icons | [`images/`](images/) |
 
-### Content review checklist
-
-Before publishing personal updates or reusing this site:
+<a id="content-review-checklist"></a>
+<details>
+<summary>Maintainer checklist before publishing personal updates or reusing the site</summary>
 
 - Check `url`, `repository`, email, GitHub, Google Scholar, ORCID, and other
   identity fields in `_config.yml`.
@@ -81,6 +80,8 @@ Before publishing personal updates or reusing this site:
   screenshots, and demo links.
 - Review profile imagery; `images/avatar-yz.svg` remains available as a
   monogram asset.
+
+</details>
 
 ## Publishing
 
