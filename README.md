@@ -1,103 +1,66 @@
-<div align="center">
+# Yuzhang Zhong Academic Homepage
 
-# Yuzhang Zhong · Academic Homepage
+This is a customized [Academic Pages](https://academicpages.github.io/) starter
+site for Yuzhang Zhong.
 
-**Research, projects, publications, and writing in one place.**
+## What Is Already Drafted
 
-[![Jekyll](https://img.shields.io/badge/Built_with-Jekyll-cc0000)](https://jekyllrb.com/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+- Homepage bio and research-interest framework in `_pages/about.md`
+- Publications page with one SNS-Grasp entry in `_publications/`
+- Projects page with two starter project entries in `_portfolio/`
+- CV framework in `_pages/cv.md`
+- Site identity, sidebar, LinkedIn, and navigation in `_config.yml` and
+  `_data/navigation.yml`
+- A temporary monogram avatar in `images/avatar-yz.svg`
 
-[Visit the site](https://yuzhang-zhong.github.io/) · [Local preview](#local-preview) · [Content guide](#content-guide) · [Publishing](#publishing)
+## Before Publishing
 
-</div>
+Update these fields first:
 
-The source for Yuzhang Zhong's personal academic website, customized from
-[Academic Pages](https://academicpages.github.io/). The site uses Jekyll and
-GitHub Pages, with dedicated layouts for publications, projects, and blog posts.
+1. `_config.yml`
+   - `url`
+   - `repository`
+   - `author.email`
+   - `author.github`
+   - `author.googlescholar`
+   - `author.orcid`
+2. `_pages/about.md`
+   - Confirm the exact wording for UIUC exchange experience.
+   - Confirm the official title, institution, advisor, and dates for visiting
+     predoctoral / research experience.
+3. `_pages/cv.md`
+   - Add GPA, honors, coursework, skills, awards, and service if desired.
+4. `_portfolio/*.md`
+   - Replace TODOs with screenshots, demo links, collaborators, and your exact
+     role.
+5. `images/avatar-yz.svg`
+   - Replace with a real headshot if you prefer.
 
-## Explore
+## Publishing With GitHub Pages
 
-| On the website | In this repository |
-| --- | --- |
-| [About](https://yuzhang-zhong.github.io/) | Bio and research interests in [`_pages/about.md`](_pages/about.md) |
-| [Publications](https://yuzhang-zhong.github.io/publications/) | Publication records in [`_publications/`](_publications/) |
-| [Projects](https://yuzhang-zhong.github.io/portfolio/) | Project pages in [`_portfolio/`](_portfolio/) |
-| [Blog](https://yuzhang-zhong.github.io/blog/) | Blog navigation and metadata in [`_data/blog.yml`](_data/blog.yml) |
+1. Create a GitHub repository named `[your-github-username].github.io`.
+2. Push this folder to that repository.
+3. In GitHub repository settings, enable GitHub Pages if it is not already
+   enabled.
+4. Your site will be available at
+   `https://[your-github-username].github.io`.
 
-## Local preview
+## Local Preview
 
-Install Ruby and Bundler first. The site's Ruby dependencies are declared in
-[`Gemfile`](Gemfile).
+Academic Pages is a Jekyll site. To preview locally:
 
 ```bash
-git clone https://github.com/yuzhang-zhong/yuzhang-zhong.github.io.git
-cd yuzhang-zhong.github.io
 bundle install
 bundle exec jekyll serve -l -H localhost
 ```
 
-Open **http://localhost:4000**. Keep the preview running while editing site
-content.
+Then open `http://localhost:4000`.
 
-<details>
-<summary>Windows / PowerShell: using the existing Ruby33 installation path</summary>
-
-If Ruby is installed at `D:\Tools\Ruby33`, add it to the current shell's path
-before running Bundler. Adjust these paths for a different installation.
+On this Windows machine, Ruby was installed at `D:\Tools\Ruby33`. In
+PowerShell, you can use:
 
 ```powershell
 $env:Path = 'D:\Tools\Ruby33\bin;D:\Tools\Ruby33\msys64\usr\bin;' + $env:Path
 bundle install
 bundle exec jekyll serve -H 127.0.0.1 -P 4000
 ```
-
-</details>
-
-## Content guide
-
-| Change | Entry point |
-| --- | --- |
-| Site identity, sidebar, and social links | [`_config.yml`](_config.yml) |
-| Header links and their order | [`_data/navigation.yml`](_data/navigation.yml) |
-| Homepage bio and research interests | [`_pages/about.md`](_pages/about.md) |
-| Publication and project entries | [`_publications/`](_publications/) and [`_portfolio/`](_portfolio/) |
-| JSON-backed CV data and page | [`_data/cv.json`](_data/cv.json) and [`_pages/cv-json.md`](_pages/cv-json.md) |
-| Layouts and reusable components | [`_layouts/`](_layouts/) and [`_includes/`](_includes/) |
-| Portraits, project figures, and icons | [`images/`](images/) |
-
-<a id="content-review-checklist"></a>
-<details>
-<summary>Maintainer checklist before publishing personal updates or reusing the site</summary>
-
-- Check `url`, `repository`, email, GitHub, Google Scholar, ORCID, and other
-  identity fields in `_config.yml`.
-- Confirm the exact wording of education and research experience in
-  `_pages/about.md`, including the UIUC exchange and any visiting or
-  predoctoral role, institution, advisor, and dates.
-- Review CV details such as GPA, honors, coursework, skills, awards, and service
-  in `_data/cv.json`.
-- Replace any remaining project TODOs with accurate roles, collaborators,
-  screenshots, and demo links.
-- Review profile imagery; `images/avatar-yz.svg` remains available as a
-  monogram asset.
-
-</details>
-
-## Publishing
-
-This repository already follows GitHub Pages' personal-site naming convention:
-`yuzhang-zhong.github.io`.
-
-1. Preview content changes locally.
-2. Push the changes to the branch used for the site's deployment.
-3. Check **Settings → Pages** for the configured publishing source and
-   deployment status.
-4. Visit **https://yuzhang-zhong.github.io/**.
-
-When adapting the site for another account, use a repository named
-`<your-github-username>.github.io` and update `_config.yml` before publishing.
-
-## Credits and license
-
-Based on [Academic Pages](https://academicpages.github.io/). See
-[`LICENSE`](LICENSE) for the repository's MIT license and attribution.
